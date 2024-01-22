@@ -3,7 +3,7 @@
 return[
     'backups' => 'Backups',
     'manage-backups' => 'Manage backups',
-    'Create-backup' => 'Create backup',
+    'create-backup' => 'Create backup',
     'have-been-allocated' => '{{current}} of {{max}} backups have been created for this server.',
 
     'name' => 'Name',

@@ -42,7 +42,7 @@ return [
         'delete' => 'Delete'
     ],
     'edit' => [
-        'title' => 'Edit schedule',
+        'title-1' => 'Edit schedule',
         'title-2' => 'Create new schedule',
 
         'description' => 'The schedule system supports the use of Cronjob syntax when defining when tasks should begin running. Use the fields above to specify when these tasks should begin running.',

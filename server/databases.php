@@ -33,6 +33,6 @@ return [
         'connection-from' => 'Connection From',
         'connection-from-description' => 'Where connections should be allowed from. Leave blank to allow connections from anywhere.',
         'cancel' => 'Cancel',
-        'create-dabatase' => 'Create Database'
+        'create-database' => 'Create Database'
     ]
 ];
