@@ -8,3 +8,6 @@
 
 **[French Translation](https://github.com/HoatikaNess/arix-translations-french)** -
 *credits:* HoatikaNess
+
+**[Portuguese (Brazil)](https://github.com/tifannypurple/arix-translations)** -
+*credits:* HoatikaNess
