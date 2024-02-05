@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'account-activity-log' => 'Account Activity Log',
-    'activity-log' => 'Activity Log',
-    'clear-filters' => 'Clear Filters',
+    'account-activity-log' => 'Záznam aktivity účtu',
+    'activity-log' => 'Záznam aktivity',
+    'clear-filters' => 'Vyčistit Filtry',
     'metadata' => 'Metadata',
-    'close' => 'Close',
-    'no-logs-server' => 'No activity logs available for this server.'
+    'close' => 'Zavřít',
+    'no-logs-server' => 'Nejsou dostupné žádne záznamy o aktivitě.'
 ];
