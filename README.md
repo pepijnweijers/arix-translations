@@ -12,5 +12,5 @@
 **[Portuguese (Brazil)](https://github.com/tifannypurple/arix-translations)** -
 *credits:* TifannyPurple
 
-**[Portuguese (Brazil)](https://github.com/SrJuanLo/arix-translations)** -
+**[Spanish](https://github.com/SrJuanLo/arix-translations)** -
 *credits:* SrJuanLo
