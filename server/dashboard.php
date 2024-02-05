@@ -1,22 +1,22 @@
 <?php
 
 return [
-    'dashboard' => 'Dashboard',
+    'dashboard' => 'Přehled',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
-        'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'title' => 'SFTP Údaje',
+        'server-address' => 'Hostitel',
+        'username' => 'Uživ. jméno',
+        'description' => 'SFTP heslo je stejné jako heslo k vašemu účtu.',
+        'launch-sftp' => 'Spustit SFTP',
     ],
     'server-info' => [
         'title' => 'Server Info',
         'hostname' => 'Hostname',
-        'node-id' => 'Node ID',
-        'server-id' => 'Server ID',
+        'node-id' => 'ID uzlu',
+        'server-id' => 'ID serveru',
         
-        'uptime' => 'Uptime',
-        'server-ip' => 'Server IP',
+        'uptime' => 'Čas běhu',
+        'server-ip' => 'IP Adresa',
     ],
 ];

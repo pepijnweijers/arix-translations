@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'startup-settings' => 'Startup Settings',
-    'startup-command' => 'Startup Command',
-    'docker-image' => 'Docker Image',
-    'read-only' => 'Read Only',
-    'select-docker-feature' => 'This is an advanced feature allowing you to select a Docker image to use when running this server instance.',
-    'custom-docker-image' => 'This {"server\'s"} Docker image has been manually set by an administrator and cannot be changed through this UI.',
-    'variables' => 'Variables'
+    'startup-settings' => 'Nastavení spouštění',
+    'startup-command' => 'Spouštěcí příkaz',
+    'docker-image' => 'Docker obraz',
+    'read-only' => 'Pouze pro čtení',
+    'select-docker-feature' => 'Toto je pokročilá funkce, která vám umožňuje vybrat Docker obraz, který se bude používat při spuštění této instance serveru.',
+    'custom-docker-image' => 'Docker obraz tohoto serveru byl manuálně nastaven správcem a nemůže být změněn prostřednictvím tohoto rozhraní.',
+    'variables' => 'Proměnné'
 ];

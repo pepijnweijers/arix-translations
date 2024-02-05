@@ -1,18 +1,18 @@
 <?php
 
 return[
-    'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+    'network' => 'Síť',
+    'manage-allocation' => 'Spravovat alokace',
+    'create-allocation' => 'Vytvořit alokaci',
+    'currently-using' => 'Právě využíváte {{current}} z {{max}} povolených alokaví pro tento server.',
 
     'IP' => 'IP',
     'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'notes' => 'Uzel',
+    'primary' => 'Primární',
+    'make-primary' => 'Nastavit jako primární',
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'Odstarnit alokaci',
+    'remove-allocation-description' => 'Tato alokace bude ze serveru okamžitě odebrána.',
+    'delete' => 'Smazat',
 ];
