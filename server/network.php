@@ -1,18 +1,18 @@
 <?php
 
-return[
-    'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+return [
+    'network' => 'Netwerk',
+    'manage-allocation' => 'Toewijzing beheren',
+    'create-allocation' => 'Toewijzing maken',
+    'currently-using' => 'U gebruikt momenteel {{current}} van de {{max}} toegestane toewijzingen voor deze server.',
 
     'IP' => 'IP',
-    'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'port' => 'Poort',
+    'notes' => 'Notities',
+    'primary' => 'Primair',
+    'make-primary' => 'Maak primair',
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'Toewijzing verwijderen',
+    'remove-allocation-description' => 'Deze toewijzing wordt onmiddellijk verwijderd van uw server.',
+    'delete' => 'Verwijderen'
 ];
