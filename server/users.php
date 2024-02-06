@@ -1,32 +1,32 @@
 <?php
 
 return [
-    'title' => 'Users',
-    'manage-subusers' => 'Manage subusers',
-    'new-user' => 'New user',
+    'title' => 'Gebruikers',
+    'manage-subusers' => 'Beheer subgebruikers',
+    'new-user' => 'Nieuwe gebruiker',
 
-    'no-users' => 'It looks like you don\'t have any subusers.',
+    'no-users' => 'Het lijkt erop dat je geen subgebruikers hebt.',
 
-    'name' => 'Name',
-    'email' => 'Email',
-    '2FA-enabled' => '2FA Enabled',
-    'creation-date' => 'Creation date',
-    'modify-permissions' => 'Modify permissions',
+    'name' => 'Naam',
+    'email' => 'E-mail',
+    '2FA-enabled' => '2FA Ingeschakeld',
+    'creation-date' => 'Creatiedatum',
+    'modify-permissions' => 'Machtigingen wijzigen',
 
-    'user-email' => 'User Email',
-    'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
+    'user-email' => 'Gebruiker E-mail',
+    'user-email-description' => 'Voer het e-mailadres in van de gebruiker die je als subgebruiker voor deze server wilt uitnodigen.',
 
-    'modify-permissions-for' => 'Modify permissions for',
-    'view-permissions-for' => 'View permissions for',
-    'create-new-subuser' => 'Create new subuser',
-    'must-not-exceed' => 'Email addresses must not exceed 191 characters.',
-    'valid-email' => 'A valid email address must be provided.',
-    'save' => 'Save',
-    'invite-user' => 'Invite User',
+    'modify-permissions-for' => 'Machtigingen wijzigen voor',
+    'view-permissions-for' => 'Machtigingen bekijken voor',
+    'create-new-subuser' => 'Nieuwe subgebruiker maken',
+    'must-not-exceed' => 'E-mailadressen mogen niet meer dan 191 tekens bevatten.',
+    'valid-email' => 'Er moet een geldig e-mailadres worden opgegeven.',
+    'save' => 'Opslaan',
+    'invite-user' => 'Gebruiker uitnodigen',
 
-    'only-permissions-you-assigned' => 'Only permissions which your account is currently assigned may be selected when creating or modifying other users.',
+    'only-permissions-you-assigned' => 'Alleen machtigingen die momenteel aan je account zijn toegewezen, kunnen worden geselecteerd bij het maken of wijzigen van andere gebruikers.',
 
-    'delete-this-subuser' => 'Delete this subuser?',
-    'yes-remove' => 'Yes, remove subuser',
-    'are-you-sure-to-remove' => 'Are you sure you wish to remove this subuser? They will have all access to this server revoked immediately.'
+    'delete-this-subuser' => 'Deze subgebruiker verwijderen?',
+    'yes-remove' => 'Ja, subgebruiker verwijderen',
+    'are-you-sure-to-remove' => 'Weet je zeker dat je deze subgebruiker wilt verwijderen? Ze zullen onmiddellijk alle toegang tot deze server verliezen.'
 ];

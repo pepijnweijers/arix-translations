@@ -4,19 +4,19 @@ return [
     'dashboard' => 'Dashboard',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
-        'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'title' => 'SFTP Gegevens',
+        'server-address' => 'Serveradres',
+        'username' => 'Gebruikersnaam',
+        'description' => 'Uw SFTP-wachtwoord is hetzelfde als het wachtwoord dat u gebruikt om toegang te krijgen tot dit paneel.',
+        'launch-sftp' => 'Start SFTP',
     ],
     'server-info' => [
-        'title' => 'Server Info',
-        'hostname' => 'Hostname',
-        'node-id' => 'Node ID',
-        'server-id' => 'Server ID',
+        'title' => 'Servergegevens',
+        'hostname' => 'Hostnaam',
+        'node-id' => 'Node-ID',
+        'server-id' => 'Server-ID',
         
         'uptime' => 'Uptime',
-        'server-ip' => 'Server IP',
+        'server-ip' => 'Server-IP',
     ],
 ];
