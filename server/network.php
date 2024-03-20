@@ -2,17 +2,17 @@
 
 return[
     'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+    'manage-allocation' => 'Pamahalaan ang allocation',
+    'create-allocation' => 'Gumawa ng Allocation',
+    'currently-using' => 'Kasalukuyan mong ginagamit ang {{current}} sa {{max}} na pinapayagang allocation para sa server na ito.', 
 
     'IP' => 'IP',
     'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'notes' => 'Mga Tala',
+    'primary' => 'Pangunahin', 
+    'make-primary' => 'Gawing Pangunahin', 
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'Tanggalin ang Allocation',
+    'remove-allocation-description' => 'Ang allocation na ito ay agad na aalisin mula sa iyong server.', 
+    'delete' => 'Tanggalin'
 ];
