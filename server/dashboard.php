@@ -4,14 +4,14 @@ return [
     'dashboard' => 'Dashboard',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
+        'title' => 'Mga Detalye ng SFTP', 
+        'server-address' => 'Address ng Server',
         'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'description' => 'Ang iyong SFTP password ay pareho sa password na ginagamit mo para ma-access ang panel na ito.', 
+        'launch-sftp' => 'Ilunsad ang SFTP', 
     ],
     'server-info' => [
-        'title' => 'Server Info',
+        'title' => 'Impormasyon ng Server', 
         'hostname' => 'Hostname',
         'node-id' => 'Node ID',
         'server-id' => 'Server ID',
