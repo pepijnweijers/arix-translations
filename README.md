@@ -14,3 +14,6 @@
 
 **[Spanish](https://github.com/SrJuanLo/arix-translations)** -
 *credits:* SrJuanLo
+
+**[Filipino (Philippines)](https://github.com/TadashiJei/arix-translations)** -
+*credits:* TadashiJei

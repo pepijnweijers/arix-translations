@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'startup-settings' => 'Startup Settings',
-    'startup-command' => 'Startup Command',
+    'startup-settings' => 'Mga Setting ng Startup',
+    'startup-command' => 'Command ng Startup',
     'docker-image' => 'Docker Image',
-    'read-only' => 'Read Only',
-    'select-docker-feature' => 'This is an advanced feature allowing you to select a Docker image to use when running this server instance.',
-    'custom-docker-image' => 'This {"server\'s"} Docker image has been manually set by an administrator and cannot be changed through this UI.',
-    'variables' => 'Variables'
+    'read-only' => 'Nababasa Lamang', 
+    'select-docker-feature' => 'Ito ay isang advanced feature na nagpapahintulot sa iyo na pumili ng Docker image na gagamitin kapag pinapatakbo itong server instance.',
+    'custom-docker-image' => 'Ang Docker image ng {"server\'s"} na ito ay manual na itinakda ng administrator at hindi mababago gamit ang UI na ito.',
+    'variables' => 'Mga Variable' 
 ];
