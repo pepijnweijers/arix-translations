@@ -21,7 +21,7 @@ return [
     'network' => 'Sieć',
     'schedules' => 'Harmonogramy',
     'users' => 'Użytkownicy',
-    'startup' => 'Uruchamianie',
+    'startup' => 'Parametry startowe',
     'admin-view' => 'Widok administratora',
 
     'general' => 'Ogólne',
