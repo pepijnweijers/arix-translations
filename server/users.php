@@ -1,32 +1,32 @@
 <?php
 
 return [
-    'title' => 'Users',
-    'manage-subusers' => 'Manage subusers',
-    'new-user' => 'New user',
+    'title' => 'Użytkownicy',
+    'manage-subusers' => 'Zarządzaj subużytkownikami',
+    'new-user' => 'Nowy użytkownik',
 
-    'no-users' => 'It looks like you don\'t have any subusers.',
+    'no-users' => 'Wygląda na to, że nie masz żadnych subużytkowników.',
 
-    'name' => 'Name',
+    'name' => 'Nazwa',
     'email' => 'Email',
-    '2FA-enabled' => '2FA Enabled',
-    'creation-date' => 'Creation date',
-    'modify-permissions' => 'Modify permissions',
+    '2FA-enabled' => '2FA włączone',
+    'creation-date' => 'Data utworzenia',
+    'modify-permissions' => 'Modyfikuj uprawnienia',
 
-    'user-email' => 'User Email',
-    'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
+    'user-email' => 'Email użytkownika',
+    'user-email-description' => 'Wprowadź adres email użytkownika, którego chcesz zaprosić jako subużytkownika dla tego serwera.',
 
-    'modify-permissions-for' => 'Modify permissions for',
-    'view-permissions-for' => 'View permissions for',
-    'create-new-subuser' => 'Create new subuser',
-    'must-not-exceed' => 'Email addresses must not exceed 191 characters.',
-    'valid-email' => 'A valid email address must be provided.',
-    'save' => 'Save',
-    'invite-user' => 'Invite User',
+    'modify-permissions-for' => 'Modyfikuj uprawnienia dla',
+    'view-permissions-for' => 'Pokaż uprawnienia dla',
+    'create-new-subuser' => 'Utwórz nowego subużytkownika',
+    'must-not-exceed' => 'Adresy email nie mogą przekraczać 191 znaków.',
+    'valid-email' => 'Musi być podany prawidłowy adres email.',
+    'save' => 'Zapisz',
+    'invite-user' => 'Zaproś użytkownika',
 
-    'only-permissions-you-assigned' => 'Only permissions which your account is currently assigned may be selected when creating or modifying other users.',
+    'only-permissions-you-assigned' => 'Tylko uprawnienia, które są przypisane do twojego konta, mogą być wybierane podczas tworzenia lub modyfikacji innych użytkowników.',
 
-    'delete-this-subuser' => 'Delete this subuser?',
-    'yes-remove' => 'Yes, remove subuser',
-    'are-you-sure-to-remove' => 'Are you sure you wish to remove this subuser? They will have all access to this server revoked immediately.'
+    'delete-this-subuser' => 'Usunąć tego subużytkownika?',
+    'yes-remove' => 'Tak, usuń subużytkownika',
+    'are-you-sure-to-remove' => 'Czy na pewno chcesz usunąć tego subużytkownika? Wszystkie jego dostępy do tego serwera zostaną natychmiast odebrane.'
 ];

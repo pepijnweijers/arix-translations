@@ -1,18 +1,18 @@
 <?php
 
-return[
-    'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+return [
+    'network' => 'Sieć',
+    'manage-allocation' => 'Zarządzaj przydziałem',
+    'create-allocation' => 'Utwórz przydział',
+    'currently-using' => 'Obecnie używasz {{current}} z {{max}} dozwolonych przydziałów dla tego serwera.',
 
     'IP' => 'IP',
     'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'notes' => 'Notatki',
+    'primary' => 'Główny',
+    'make-primary' => 'Ustaw jako główny',
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'Usuń IP',
+    'remove-allocation-description' => 'Ten przydział zostanie natychmiast usunięty z twojego serwera.',
+    'delete' => 'Usuń'
 ];

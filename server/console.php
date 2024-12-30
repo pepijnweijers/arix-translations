@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'console' => 'Console',
-    'node-under-maintenance' => 'The node of this server is currently under maintenance and all actions are unavailable.',
-    'running-installation-process' => 'This server is currently running its installation process and most actions are unavailable.',
-    'being-transferred' => 'This server is currently being transferred to another node and all actions are unavailable.',
-    'type-a-command' => 'Type a command...',
+    'console' => 'Konsola',
+    'node-under-maintenance' => 'Węzeł tego serwera jest obecnie w trakcie konserwacji, wszystkie akcje są niedostępne.',
+    'running-installation-process' => 'Ten serwer aktualnie przeprowadza proces instalacji, większość akcji jest niedostępna.',
+    'being-transferred' => 'Ten serwer jest obecnie przenoszony na inny węzeł, wszystkie akcje są niedostępne.',
+    'type-a-command' => 'Wpisz komendę...',
 ];
