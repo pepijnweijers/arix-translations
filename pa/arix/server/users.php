@@ -16,6 +16,7 @@ return [
     'user-email' => 'ਯੂਜ਼ਰ ਈਮੇਲ',
     'user-email-description' => 'ਇਸ ਸਰਵਰ ਲਈ ਸਬ ਯੂਜ਼ਰ ਦੇ ਤੌਰ ਤੇ ਸੱਦਾ ਭੇਜਣ ਲਈ ਯੂਜ਼ਰ ਦੀ ਈਮੇਲ ਐਡਰੈੱਸ ਦਾਖਲ ਕਰੋ।',
 
+    'select-all-permissions' => 'Select all permissions',
     'modify-permissions-for' => 'ਅਨੁਮਤੀਆਂ ਸੋਧੋ',
     'view-permissions-for' => 'ਅਨੁਮਤੀਆਂ ਵੇਖੋ',
     'create-new-subuser' => 'ਨਵਾਂ ਸਬ ਯੂਜ਼ਰ ਬਣਾਓ',

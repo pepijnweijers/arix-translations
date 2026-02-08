@@ -16,6 +16,7 @@ return [
     'user-email' => 'Bruger Email',
     'user-email-description' => 'Indtast emailadressen for den bruger, du vil invitere som en underbruger for denne server.',
 
+    'select-all-permissions' => 'Select all permissions',
     'modify-permissions-for' => 'Ændre tilladelser for',
     'view-permissions-for' => 'Se tilladelser for',
     'create-new-subuser' => 'Opret ny underbruger',

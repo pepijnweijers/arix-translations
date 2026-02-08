@@ -16,6 +16,7 @@ return [
     'user-email' => 'Email пользователя',
     'user-email-description' => 'Введите адрес электронной почты пользователя, которого вы хотите пригласить в качестве подпользователя для этого сервера.',
 
+    'select-all-permissions' => 'Select all permissions',
     'modify-permissions-for' => 'Изменить разрешения для',
     'view-permissions-for' => 'Просмотреть разрешения для',
     'create-new-subuser' => 'Создать нового подпользователя',

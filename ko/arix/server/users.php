@@ -16,6 +16,7 @@ return [
     'user-email' => '사용자 이메일',
     'user-email-description' => '이 서버의 하위 사용자로 초대하려는 사용자의 이메일 주소를 입력하세요.',
 
+    'select-all-permissions' => 'Select all permissions',
     'modify-permissions-for' => '다음 사용자의 권한 수정',
     'view-permissions-for' => '다음 사용자의 권한 보기',
     'create-new-subuser' => '새로운 하위 사용자 생성',

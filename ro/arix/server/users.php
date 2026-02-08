@@ -16,6 +16,7 @@ return [
     'user-email' => 'Email-ul utilizatorului',
     'user-email-description' => 'Introdu adresa de email a utilizatorului pe care doresti sa-l inviti ca subutilizator pentru acest server.',
 
+    'select-all-permissions' => 'Select all permissions',
     'modify-permissions-for' => 'Se modifica permisiunile pentru',
     'view-permissions-for' => 'Vezi permisiunile pentru',
     'create-new-subuser' => 'Creaza un nou subuser',

@@ -16,6 +16,7 @@ return [
     'user-email' => 'Correo electrónico del usuario',
     'user-email-description' => 'Ingresa la dirección de correo electrónico del usuario que deseas invitar como subusuario para este servidor.',
 
+    'select-all-permissions' => 'Select all permissions',
     'modify-permissions-for' => 'Modificar permisos para',
     'view-permissions-for' => 'Ver permisos para',
     'create-new-subuser' => 'Crear nuevo subusuario',

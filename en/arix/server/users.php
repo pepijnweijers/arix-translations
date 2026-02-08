@@ -16,6 +16,7 @@ return [
     'user-email' => 'User Email',
     'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
 
+    'select-all-permissions' => 'Select all permissions',
     'modify-permissions-for' => 'Modify permissions for',
     'view-permissions-for' => 'View permissions for',
     'create-new-subuser' => 'Create new subuser',
