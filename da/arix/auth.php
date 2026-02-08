@@ -11,6 +11,7 @@ return [
         'login' => 'Log på',
 
         'must-be-provided' => 'Der skal leveres et brugernavn eller en e-mail.',
+        'new-here' => 'New here? Create an account.',
         'please-enter-password' => 'Indtast din kontoadgangskode',
     ],
 
@@ -38,6 +39,28 @@ return [
 
         'enter-one-of-recovery-codes' => 'Indtast en af gendannelseskoderne genereret, når du opsætter 2-faktor-godkendelse på denne konto for at fortsætte.',
         'enter-two-factor' => 'Indtast den to-faktor-token genereret af din enhed',
+    ],
+
+    'register' => [
+        'title' => 'Create an Account',
+        'username' => 'Username',
+        'firstname' => 'First Name',
+        'lastname' => 'Last Name',
+        'email' => 'Email',
+        'register' => 'Register',
+
+        'already-have-account' => 'Already have an account?',
+
+        'username-required' => 'A username is required.',
+        'email-required' => 'An email address is required.',
+        'valid-email-required' => 'A valid email address is required.',
+        'firstname-required' => 'A first name is required.',
+        'lastname-required' => 'A last name is required.',
+
+        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
+        'username-taken' => 'The provided username is already in use.',
+
+        'success-message' => 'You have successfully registered, check your email',
     ],
 
     'reset' => [

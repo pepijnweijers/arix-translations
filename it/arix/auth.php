@@ -11,6 +11,7 @@ return [
         'login' => 'Accedi',
 
         'must-be-provided' => 'Deve essere fornito un nome utente o un indirizzo email.',
+        'new-here' => 'New here? Create an account.',
         'please-enter-password' => 'Inserisci la password del tuo account.',
     ],
 
@@ -38,6 +39,28 @@ return [
 
         'enter-one-of-recovery-codes' => 'Inserisci uno dei codici di recupero generati quando hai configurato l\'autenticazione a due fattori su questo account per continuare.',
         'enter-two-factor' => 'Inserisci il token a due fattori generato dal tuo dispositivo',
+    ],
+
+    'register' => [
+        'title' => 'Create an Account',
+        'username' => 'Username',
+        'firstname' => 'First Name',
+        'lastname' => 'Last Name',
+        'email' => 'Email',
+        'register' => 'Register',
+
+        'already-have-account' => 'Already have an account?',
+
+        'username-required' => 'A username is required.',
+        'email-required' => 'An email address is required.',
+        'valid-email-required' => 'A valid email address is required.',
+        'firstname-required' => 'A first name is required.',
+        'lastname-required' => 'A last name is required.',
+
+        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
+        'username-taken' => 'The provided username is already in use.',
+
+        'success-message' => 'You have successfully registered, check your email',
     ],
 
     'reset' => [

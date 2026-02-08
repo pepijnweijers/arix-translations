@@ -11,6 +11,7 @@ return [
         'login' => 'ਲਾਗਇਨ',
 
         'must-be-provided' => 'ਇੱਕ ਯੂਜ਼ਰਨੇਮ ਜਾਂ ਈਮੇਲ ਦਿੱਤੇ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ।',
+        'new-here' => 'New here? Create an account.',
         'please-enter-password' => 'ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਖਾਤਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ',
     ],
 
@@ -38,6 +39,28 @@ return [
 
         'enter-one-of-recovery-codes' => 'ਜਾਰੀ ਰੱਖਣ ਲਈ ਇਸ ਖਾਤੇ ਤੇ 2-ਫੈਕਟਰ ਪ੍ਰਮਾਣੀਕਰਣ ਸੈਟਅੱਪ ਕਰਨ ਵੇਲੇ ਉਤਪੰਨ ਕੋਡਾਂ ਵਿੱਚੋਂ ਇੱਕ ਦਾਖਲ ਕਰੋ।',
         'enter-two-factor' => 'ਆਪਣੇ ਉਪਕਰਣ ਦੁਆਰਾ ਉਤਪੰਨ ਦੋ-ਫੈਕਟਰ ਟੋਕਨ ਦਰਜ ਕਰੋ',
+    ],
+
+    'register' => [
+        'title' => 'Create an Account',
+        'username' => 'Username',
+        'firstname' => 'First Name',
+        'lastname' => 'Last Name',
+        'email' => 'Email',
+        'register' => 'Register',
+
+        'already-have-account' => 'Already have an account?',
+
+        'username-required' => 'A username is required.',
+        'email-required' => 'An email address is required.',
+        'valid-email-required' => 'A valid email address is required.',
+        'firstname-required' => 'A first name is required.',
+        'lastname-required' => 'A last name is required.',
+
+        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
+        'username-taken' => 'The provided username is already in use.',
+
+        'success-message' => 'You have successfully registered, check your email',
     ],
 
     'reset' => [

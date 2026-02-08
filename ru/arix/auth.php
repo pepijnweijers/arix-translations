@@ -11,6 +11,7 @@ return [
         'login' => 'Вход',
 
         'must-be-provided' => 'Необходимо указать имя пользователя или адрес электронной почты.',
+        'new-here' => 'New here? Create an account.',
         'please-enter-password' => 'Пожалуйста, введите пароль вашей учетной записи',
     ],
 
@@ -38,6 +39,28 @@ return [
 
         'enter-one-of-recovery-codes' => 'Введите один из кодов восстановления, сгенерированных при настройке двухфакторной аутентификации для этой учетной записи, чтобы продолжить.',
         'enter-two-factor' => 'Введите двухфакторный токен, сгенерированный вашим устройством',
+    ],
+
+    'register' => [
+        'title' => 'Create an Account',
+        'username' => 'Username',
+        'firstname' => 'First Name',
+        'lastname' => 'Last Name',
+        'email' => 'Email',
+        'register' => 'Register',
+
+        'already-have-account' => 'Already have an account?',
+
+        'username-required' => 'A username is required.',
+        'email-required' => 'An email address is required.',
+        'valid-email-required' => 'A valid email address is required.',
+        'firstname-required' => 'A first name is required.',
+        'lastname-required' => 'A last name is required.',
+
+        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
+        'username-taken' => 'The provided username is already in use.',
+
+        'success-message' => 'You have successfully registered, check your email',
     ],
 
     'reset' => [

@@ -11,6 +11,7 @@ return [
         'login' => 'لاگ ان',
 
         'must-be-provided' => 'ایک صارف کا نام یا ای میل فراہم کیا جانا چاہئے۔',
+        'new-here' => 'New here? Create an account.',
         'please-enter-password' => 'براہ کرم اپنا اکاؤنٹ پاسورڈ درج کریں',
     ],
 
@@ -38,6 +39,28 @@ return [
 
         'enter-one-of-recovery-codes' => 'جاری رہنے کے لئے اس اکاؤنٹ پر 2-فیصد تصدیق ترتیب دینے کے دوران جنریٹ ہونے والے ریکوری کوڈز میں سے ایک درج کریں۔',
         'enter-two-factor' => 'اپنے ڈوائس کے ذریعے جنریٹ ہونے والے دو-فیصد ٹوکن درج کریں',
+    ],
+
+    'register' => [
+        'title' => 'Create an Account',
+        'username' => 'Username',
+        'firstname' => 'First Name',
+        'lastname' => 'Last Name',
+        'email' => 'Email',
+        'register' => 'Register',
+
+        'already-have-account' => 'Already have an account?',
+
+        'username-required' => 'A username is required.',
+        'email-required' => 'An email address is required.',
+        'valid-email-required' => 'A valid email address is required.',
+        'firstname-required' => 'A first name is required.',
+        'lastname-required' => 'A last name is required.',
+
+        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
+        'username-taken' => 'The provided username is already in use.',
+
+        'success-message' => 'You have successfully registered, check your email',
     ],
 
     'reset' => [

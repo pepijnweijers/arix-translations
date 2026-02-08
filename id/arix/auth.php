@@ -11,6 +11,7 @@ return [
         'login' => 'Login',
 
         'must-be-provided' => 'Sebuah username atau email harus disediakan.',
+        'new-here' => 'New here? Create an account.',
         'please-enter-password' => 'Silakan masukkan kata sandi akun Anda.',
     ],
 
@@ -38,6 +39,28 @@ return [
 
         'enter-one-of-recovery-codes' => 'Masukkan salah satu kode pemulihan yang dihasilkan saat Anda mengatur otentikasi 2-Faktor pada akun ini untuk melanjutkan.',
         'enter-two-factor' => 'Masukkan token dua faktor yang dihasilkan oleh perangkat Anda',
+    ],
+
+    'register' => [
+        'title' => 'Create an Account',
+        'username' => 'Username',
+        'firstname' => 'First Name',
+        'lastname' => 'Last Name',
+        'email' => 'Email',
+        'register' => 'Register',
+
+        'already-have-account' => 'Already have an account?',
+
+        'username-required' => 'A username is required.',
+        'email-required' => 'An email address is required.',
+        'valid-email-required' => 'A valid email address is required.',
+        'firstname-required' => 'A first name is required.',
+        'lastname-required' => 'A last name is required.',
+
+        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
+        'username-taken' => 'The provided username is already in use.',
+
+        'success-message' => 'You have successfully registered, check your email',
     ],
 
     'reset' => [
