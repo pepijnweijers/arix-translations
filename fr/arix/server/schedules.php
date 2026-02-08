@@ -1,0 +1,96 @@
+<?php 
+
+return [
+    'schedules' => 'Planifications',
+    'manage-schedules' => 'Gérer les planifications',
+    'create-schedule' => 'Créer une planification',
+    'name' => 'Nom',
+    'last-run-at' => 'Dernière exécution à',
+    'next-run-at' => 'Prochaine exécution à',
+    'status' => 'Statut',
+    'active' => 'Actif',
+    'inactive' => 'Inactif',
+    'processing' => 'En cours',
+    'manage-schedule' => 'Gérer la planification',
+    'new-task' => 'Nouvelle tâche',
+    'run-now' => 'Exécuter maintenant',
+    'editBtn' => 'Modifier',
+    'n/a' => 'N/A',
+    'never' => 'Jamais',
+
+    'no-schedules' => 'Aucune planification n\'est configurée pour ce serveur.',
+    'ignore-files-folders' => 'Ignorer les fichiers et dossiers',
+    'continues-on-failure' => 'Continue en cas d\'échec',
+    'later' => 'plus tard',
+
+    'minute' => 'Minute',
+    'hour' => 'Heure',
+    'day' => 'Jour',
+    'week' => 'Semaine',
+    'day-of-month' => 'Jour du mois',
+    'month' => 'Mois',
+    'day-of-week' => 'Jour de la semaine',
+
+    'deleteTask' => [
+        'title' => 'Confirmer la suppression de la tâche',
+        'description' => 'Êtes-vous sûr de vouloir supprimer cette tâche ? Cette action ne peut pas être annulée.',
+        'delete' => 'Supprimer la tâche'
+    ],
+    'delete' => [
+        'title' => 'Supprimer la planification',
+        'description' => 'Toutes les tâches seront supprimées et tous les processus en cours seront terminés.',
+        'delete' => 'Supprimer'
+    ],
+    'edit' => [
+        'title-1' => 'Modifier la planification',
+        'title-2' => 'Créer une nouvelle planification',
+
+        'description' => 'Le système de planification prend en charge l\'utilisation de la syntaxe Cronjob pour définir quand les tâches doivent commencer à s\'exécuter. Utilisez les champs ci-dessus pour spécifier quand ces tâches doivent commencer à s\'exécuter.',
+        
+        'name' => 'Nom de la planification',
+        'name-description' => 'Un identifiant lisible par l\'homme pour cette planification.',
+        'cheatsheet' => 'Afficher la triche',
+        'cheatsheet-description' => 'Afficher la triche de Cron pour quelques exemples',
+        'online-when-online' => 'Uniquement lorsque le serveur est en ligne',
+        'online-when-online-description' => 'N\'exécutez cette planification que lorsque le serveur est en état de fonctionnement.',
+        'enabled' => 'Planification activée',
+        'enabled-description' => 'Cette planification sera exécutée automatiquement si elle est activée.',
+
+        'save-changes' => 'Enregistrer les modifications',
+    ],
+    'cheatsheet' => [
+        'example' => 'Exemples',
+        'every-5-minutes' => 'toutes les 5 minutes',
+        'every-hour' => 'toutes les heures',
+        'hour-range' => 'plage horaire',
+        'once-a-day' => 'une fois par jour',
+        'every-monday' => 'tous les lundis',
+        'special-characters' => 'Caractères spéciaux',
+        'any-value' => 'n\'importe quelle valeur',
+        'value-list-separator' => 'séparateur de liste de valeurs',
+        'range-values' => 'Plage de valeur',
+        'step-values' => 'valeurs d\'étape',
+    ],
+    'task' => [
+        'message' => 'Une tâche de sauvegarde ne peut pas être créée lorsque la limite de sauvegarde du serveur est fixée à 0.',
+        'edit-task' => 'Modifier la tâche',
+        'save-changes' => 'Enregistrer les modifications',
+        'create-task' => 'Créer une tâche',
+        'action' => 'Action',
+        'send-command' => 'Envoyer une commande',
+        'send-power-action' => 'Envoyer une action d\'alimentation',
+        'create-backup' => 'Créer une sauvegarde',
+        'offset' => 'Décalage horaire (en secondes)',
+        'offset-description' => 'La durée d\'attente après l\'exécution de la tâche précédente avant d\'exécuter celle-ci. Si c\'est la première tâche d\'une planification, cela ne s\'appliquera pas.',
+        'payload' => 'Charge',
+        'ignored-files' => 'Fichiers ignorés',
+        'ignored-files-description' => 'Optionnel. Inclure les fichiers et dossiers à exclure de cette sauvegarde. Par défaut, le contenu de votre fichier .pteroignore sera utilisé. Si vous avez atteint votre limite de sauvegarde, la sauvegarde la plus ancienne sera remplacée.',
+        'start-server' => 'Démarrer le serveur',
+        'stop-server' => 'Arrêter le serveur',
+        'restart-server' => 'Redémarrer le serveur',
+        'kill-server' => 'Terminer le serveur',
+        'continue-on-failure' => 'Continuer en cas d\'échec',
+        'continue-on-failure-description' => 'Les futures tâches seront exécutées en cas d\'échec de cette tâche.',
+    ],
+    
+];
