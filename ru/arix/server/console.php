@@ -5,5 +5,9 @@ return [
     'node-under-maintenance' => 'Узел этого сервера в настоящее время находится на обслуживании, и все действия недоступны.',
     'running-installation-process' => 'Этот сервер в настоящее время выполняет процесс установки, и большинство действий недоступны.',
     'being-transferred' => 'Этот сервер в настоящее время мигрируется на другой узел, и все действия недоступны.',
+    'view-all' => 'View All',
+    'clear-console' => 'Clear Console',
+    'share-logs' => 'Share Logs',
+    'floating-console' => 'Floating Console',
     'type-a-command' => 'Введите команду...',
 ];
