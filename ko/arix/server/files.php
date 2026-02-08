@@ -40,6 +40,30 @@ return [
     'new-location' => '새 위치',
     'drag-and-drop' => '업로드하려면 파일을 끌어다 놓으세요.',
 
+
+    'folders-not-supported' => 'Folder uploads are not supported at this time.',
+    'upload-files' => 'Upload Files',
+    'folder-too-big' => 'Folder size exceeds 10MB limit. Please select a smaller folder.',
+    'upload-folders' => 'Upload Folders',
+    'upload-from-url' => 'Upload from URL',
+    'filename' => 'Filename',
+    'open-code-editor' => 'Open Code Editor',
+
+    'code-editor' => [
+        'explorer' => 'Explorer',
+        'reload' => 'Reload',
+        'new' => 'New',
+        'browse-files' => 'Browse Files',
+        'save' => 'Save',
+        'save-dirty' => 'Save *',
+        'saving' => 'Saving...',
+        'no-file-selected' => 'No file selected',
+        'no-files-found' => 'No files found',
+        'loading' => 'Loading...',
+
+        'file-be-created' => 'This file will be created as',
+    ],
+    
     'edit' => [
         'youre-editing' => '편집 중인',
         'will-be-exluded' => '파일입니다. 여기에 나열된 모든 파일 또는 디렉터리는 백업에서 제외됩니다. 와일드카드는 별표를 사용하여 지원됩니다.',

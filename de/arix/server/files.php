@@ -40,6 +40,29 @@ return [
     'new-location' => 'Neuer Ort',
     'drag-and-drop' => 'Ziehe die Dateien zum Hochladen per Drag and Drop.',
 
+    'folders-not-supported' => 'Folder uploads are not supported at this time.',
+    'upload-files' => 'Upload Files',
+    'folder-too-big' => 'Folder size exceeds 10MB limit. Please select a smaller folder.',
+    'upload-folders' => 'Upload Folders',
+    'upload-from-url' => 'Upload from URL',
+    'filename' => 'Filename',
+    'open-code-editor' => 'Open Code Editor',
+
+    'code-editor' => [
+        'explorer' => 'Explorer',
+        'reload' => 'Reload',
+        'new' => 'New',
+        'browse-files' => 'Browse Files',
+        'save' => 'Save',
+        'save-dirty' => 'Save *',
+        'saving' => 'Saving...',
+        'no-file-selected' => 'No file selected',
+        'no-files-found' => 'No files found',
+        'loading' => 'Loading...',
+
+        'file-be-created' => 'This file will be created as',
+    ],
+    
     'edit' => [
         'youre-editing' => 'Du bearbeitest',
         'will-be-exluded' => 'Alle Dateien oder Verzeichnisse, die hier aufgeführt sind, werden vom Backup ausgeschlossen. Wildcards werden durch die Verwendung eines Sternchens unterstützt',

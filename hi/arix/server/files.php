@@ -40,6 +40,30 @@ return [
     'new-location' => 'نیا مقام',
     'drag-and-drop' => 'اپلوڈ کرنے کے لئے فائلوں کو ڈریگ اینڈ ڈراپ کریں۔',
 
+
+    'folders-not-supported' => 'Folder uploads are not supported at this time.',
+    'upload-files' => 'Upload Files',
+    'folder-too-big' => 'Folder size exceeds 10MB limit. Please select a smaller folder.',
+    'upload-folders' => 'Upload Folders',
+    'upload-from-url' => 'Upload from URL',
+    'filename' => 'Filename',
+    'open-code-editor' => 'Open Code Editor',
+
+    'code-editor' => [
+        'explorer' => 'Explorer',
+        'reload' => 'Reload',
+        'new' => 'New',
+        'browse-files' => 'Browse Files',
+        'save' => 'Save',
+        'save-dirty' => 'Save *',
+        'saving' => 'Saving...',
+        'no-file-selected' => 'No file selected',
+        'no-files-found' => 'No files found',
+        'loading' => 'Loading...',
+
+        'file-be-created' => 'This file will be created as',
+    ],
+    
     'edit' => [
         'youre-editing' => 'آپ ایک',
         'will-be-exluded' => 'فائل کو ترتیب دینے پر آ رہے ہیں۔ یہاں درج کردہ کسی بھی فائل یا ڈائریکٹری کو بیک اپس سے خارج کیا جائے گا۔ وائلڈ کارڈز کو چھوڑنے سے حمایت ملتی ہے',

@@ -40,6 +40,30 @@ return [
     'new-location' => 'Yeni konum',
     'drag-and-drop' => 'Yüklemek için dosyaları sürükleyip bırakın.',
 
+
+    'folders-not-supported' => 'Folder uploads are not supported at this time.',
+    'upload-files' => 'Upload Files',
+    'folder-too-big' => 'Folder size exceeds 10MB limit. Please select a smaller folder.',
+    'upload-folders' => 'Upload Folders',
+    'upload-from-url' => 'Upload from URL',
+    'filename' => 'Filename',
+    'open-code-editor' => 'Open Code Editor',
+
+    'code-editor' => [
+        'explorer' => 'Explorer',
+        'reload' => 'Reload',
+        'new' => 'New',
+        'browse-files' => 'Browse Files',
+        'save' => 'Save',
+        'save-dirty' => 'Save *',
+        'saving' => 'Saving...',
+        'no-file-selected' => 'No file selected',
+        'no-files-found' => 'No files found',
+        'loading' => 'Loading...',
+
+        'file-be-created' => 'This file will be created as',
+    ],
+    
     'edit' => [
         'youre-editing' => 'Şu an düzenliyorsunuz',
         'will-be-excluded' => 'dosyasını. Burada listelenen herhangi bir dosya veya dizin yedeklemelerden hariç tutulacaktır. Yıldız işareti kullanarak joker karakterler desteklenir',
