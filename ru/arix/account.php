@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'Звуки панели',
         'on' => 'Включено',
         'off' => 'Выключено',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'پینل آوازیں',
         'on' => 'چالو',
         'off' => 'بند',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

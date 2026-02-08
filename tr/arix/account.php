@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'Panel Sesleri',
         'on' => 'Açık',
         'off' => 'Kapalı',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

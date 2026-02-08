@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'Suara Panel',
         'on' => 'Aktif',
         'off' => 'Nonaktif',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

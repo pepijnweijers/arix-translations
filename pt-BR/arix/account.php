@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'Sons do Painel',
         'on' => 'Ligado',
         'off' => 'Desligado',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

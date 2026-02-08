@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'ਪੈਨਲ ਧੁਨ',
         'on' => 'ਚਾਲੂ',
         'off' => 'ਬੰਦ',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

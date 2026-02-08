@@ -30,6 +30,8 @@ return [
         'panel-sounds' => '패널 사운드',
         'on' => '켜기',
         'off' => '끄기',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

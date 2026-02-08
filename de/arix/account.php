@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'Panel Sounds',
         'on' => 'Ein',
         'off' => 'Aus',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

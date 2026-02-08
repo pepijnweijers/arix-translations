@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'Sunet Panou',
         'on' => 'Pornit',
         'off' => 'Oprit',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [

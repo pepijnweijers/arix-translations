@@ -30,6 +30,8 @@ return [
         'panel-sounds' => 'Zvuky panelu',
         'on' => 'Zap.',
         'off' => 'Vyp.',
+
+        'privacy-mode' => 'Privacy Mode',
     ],
 
     'twofactor' => [
