@@ -56,6 +56,11 @@ return [
         'enabled' => 'Расписание включено',
         'enabled-description' => 'Это расписание будет выполняться автоматически, если оно включено.',
 
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Сохранить изменения',
     ],
     'cheatsheet' => [
@@ -74,6 +79,11 @@ return [
     'task' => [
         'message' => 'Задача по созданию резервной копии не может быть создана, если лимит резервного копирования сервера установлен в 0.',
         'edit-task' => 'Редактировать задачу',
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Сохранить изменения',
         'create-task' => 'Создать задачу',
         'action' => 'Действие',

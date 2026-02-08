@@ -56,6 +56,11 @@ return [
         'enabled' => 'Schedule Enabled',
         'enabled-description' => 'Dieser Zeitplan wird automatisch ausgeführt, wenn er aktiviert ist.',
 
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Änderungen speichern',
     ],
     'cheatsheet' => [
@@ -74,6 +79,11 @@ return [
     'task' => [
         'message' => 'Ein Sicherungsauftrag kann nicht erstellt werden, wenn das Sicherungslimit des Servers auf 0 gesetzt ist.',
         'edit-task' => 'Aufgabe bearbeiten',
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Änderungen speichern',
         'create-task' => 'Aufgabe erstellen',
         'action' => 'Aktion',

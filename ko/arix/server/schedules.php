@@ -56,6 +56,11 @@ return [
         'enabled' => '일정 활성화',
         'enabled-description' => '활성화된 경우이 일정은 자동으로 실행됩니다.',
 
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => '변경 사항 저장',
     ],
     'cheatsheet' => [
@@ -74,6 +79,11 @@ return [
     'task' => [
         'message' => '서버의 백업 제한이 0으로 설정되어 있을 때 백업 작업을 만들 수 없습니다.',
         'edit-task' => '작업 편집',
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => '변경 사항 저장',
         'create-task' => '작업 생성',
         'action' => '동작',

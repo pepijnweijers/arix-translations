@@ -56,6 +56,11 @@ return [
         'enabled' => 'Schema aktiverat',
         'enabled-description' => 'Detta schema kommer att köras automatiskt om det är aktiverat.',
 
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Spara ändringar',
     ],
     'cheatsheet' => [
@@ -74,6 +79,11 @@ return [
     'task' => [
         'message' => 'En säkerhetskopieringsuppgift kan inte skapas när serverns säkerhetskopieringsgräns är inställd på 0.',
         'edit-task' => 'Redigera Uppgift',
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Spara Ändringar',
         'create-task' => 'Skapa Uppgift',
         'action' => 'Åtgärd',

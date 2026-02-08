@@ -56,6 +56,11 @@ return [
         'enabled' => 'Pianificazione abilitata',
         'enabled-description' => 'Questa pianificazione verrà eseguita automaticamente se abilitata.',
 
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Salva modifiche',
     ],
     'cheatsheet' => [
@@ -74,6 +79,11 @@ return [
     'task' => [
         'message' => 'Non è possibile creare un compito di backup quando il limite di backup del server è impostato su 0.',
         'edit-task' => 'Modifica Compito',
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Salva Modifiche',
         'create-task' => 'Crea Compito',
         'action' => 'Azione',

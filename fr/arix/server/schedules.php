@@ -56,6 +56,11 @@ return [
         'enabled' => 'Planification activée',
         'enabled-description' => 'Cette planification sera exécutée automatiquement si elle est activée.',
 
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Enregistrer les modifications',
     ],
     'cheatsheet' => [
@@ -74,6 +79,11 @@ return [
     'task' => [
         'message' => 'Une tâche de sauvegarde ne peut pas être créée lorsque la limite de sauvegarde du serveur est fixée à 0.',
         'edit-task' => 'Modifier la tâche',
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Enregistrer les modifications',
         'create-task' => 'Créer une tâche',
         'action' => 'Action',

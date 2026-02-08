@@ -56,6 +56,11 @@ return [
         'enabled' => 'Spouštěš je aktivní',
         'enabled-description' => 'Pokud je toto povoleno úkoly spouštěče se spustí automatiky.',
 
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Uložit',
     ],
     'cheatsheet' => [
@@ -74,6 +79,11 @@ return [
     'task' => [
         'message' => 'Úloha pro zálohování nemůže být vytvořena pokud je limit záloh 0',
         'edit-task' => 'Uravit úlohu',
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'Uložit',
         'create-task' => 'Vytvořit',
         'action' => 'Akce',

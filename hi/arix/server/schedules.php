@@ -56,6 +56,11 @@ return [
         'enabled' => 'شیڈول فعال ہے',
         'enabled-description' => 'اگر چالو ہو تو یہ شیڈول خود بخود چلا جائے گا۔',
 
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'ترتیبات محفوظ کریں',
     ],
     'cheatsheet' => [
@@ -74,6 +79,11 @@ return [
     'task' => [
         'message' => 'جب سرور کے بیک اپ کی حد 0 پر سیٹ ہو تو بیک اپ ٹاسک نہیں بنایا جا سکتا۔',
         'edit-task' => 'ٹاسک ترتیب دیں',
+        'easy-mode' => 'Easy Mode',
+        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
+        'easy' => 'Easy',
+        'advanced' => 'Advanced',
+
         'save-changes' => 'ترتیبات محفوظ کریں',
         'create-task' => 'ٹاسک بنائیں',
         'action' => 'عمل',
