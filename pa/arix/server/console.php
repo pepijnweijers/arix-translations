@@ -5,9 +5,9 @@ return [
     'node-under-maintenance' => 'ਇਸ ਸਰਵਰ ਦਾ ਨੋਡ ਮੈਨਟੀਨੈਂਸ ਅਧੀਨ ਹੈ ਅਤੇ ਸਭ ਕਾਰਵਾਈਆਂ ਅਣਉਪਲਬਧ ਹਨ।',
     'running-installation-process' => 'ਇਹ ਸਰਵਰ ਹੁਣ ਆਪਣੇ ਇੰਸਟਾਲੇਸ਼ਨ ਪ੍ਰਕ੍ਰਿਆ ਚਲਾ ਰਿਹਾ ਹੈ ਅਤੇ ਜ਼ਿਆਦਾਤਰ ਕਾਰਵਾਈਆਂ ਅਣਉਪਲਬਧ ਹਨ।',
     'being-transferred' => 'ਇਹ ਸਰਵਰ ਹੁਣ ਦੂਜੇ ਨੋਡ ਵਿੱਚ ਟ੍ਰਾਂਸਫਰ ਹੋ ਰਿਹਾ ਹੈ ਅਤੇ ਸਭ ਕਾਰਵਾਈਆਂ ਅਣਉਪਲਬਧ ਹਨ।',
-    'view-all' => 'View All',
-    'clear-console' => 'Clear Console',
-    'share-logs' => 'Share Logs',
-    'floating-console' => 'Floating Console',
+    'view-all' => 'ਸਭ ਦੇਖੋ',
+    'clear-console' => 'ਕੰਸੋਲ ਸਾਫ਼ ਕਰੋ',
+    'share-logs' => 'ਲੌਗ ਸਾਂਝੇ ਕਰੋ',
+    'floating-console' => 'ਫਲੋਟਿੰਗ ਕੰਸੋਲ',
     'type-a-command' => 'ਇੱਕ ਕਮਾਂਡ ਟਾਈਪ ਕਰੋ...',
 ];

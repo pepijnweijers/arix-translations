@@ -29,6 +29,11 @@ return [
     'configuration' => 'Yapılandırma',
 
     'account-overview' => 'Hesap Genel Bakış',
+    'plugins' => 'Eklentiler',
+    'properties' => 'Özellikler',
+    'versions' => 'Sürümler',
+    'subdomains' => 'Alt Alanlar',
+
     'admin-area' => 'Yönetici Alanı',
     'account-activity' => 'Hesap Etkinliği',
     'dark-light-mode' => 'Karanlık/Aydınlık mod',

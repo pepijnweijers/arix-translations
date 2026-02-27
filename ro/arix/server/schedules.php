@@ -56,10 +56,10 @@ return [
         'enabled' => 'Programare Pornita',
         'enabled-description' => 'Aceasta programare va fi executata automat daca este activa.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Mod simplu',
+        'easy-mode-description' => 'Comutați la modul avansat pentru configurarea personalizată cron',
+        'easy' => 'Simplu',
+        'advanced' => 'Avansat',
 
         'save-changes' => 'Salveaza schimbarile',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'O sarcina de rezerva nu poate fi creata cand limita de rezerva a serverului este setata la 0.',
         'edit-task' => 'Editeaza Task-ul',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Mod simplu',
+        'easy-mode-description' => 'Comutați la modul avansat pentru configurarea personalizată cron',
+        'easy' => 'Simplu',
+        'advanced' => 'Avansat',
 
         'save-changes' => 'Se salveaza schimbarile',
         'create-task' => 'Creaza Task',

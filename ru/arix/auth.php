@@ -11,7 +11,7 @@ return [
         'login' => 'Вход',
 
         'must-be-provided' => 'Необходимо указать имя пользователя или адрес электронной почты.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Впервые здесь? Создайте аккаунт.',
         'please-enter-password' => 'Пожалуйста, введите пароль вашей учетной записи',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'Создать аккаунт',
+        'username' => 'Имя пользователя',
+        'firstname' => 'Имя',
+        'lastname' => 'Фамилия',
+        'email' => 'Адрес электронной почты',
+        'register' => 'Зарегистрироваться',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Уже есть аккаунт?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Необходимо указать имя пользователя.',
+        'email-required' => 'Необходимо указать адрес электронной почты.',
+        'valid-email-required' => 'Необходимо указать действительный адрес электронной почты.',
+        'firstname-required' => 'Необходимо указать имя.',
+        'lastname-required' => 'Необходимо указать фамилию.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Необходимо указать допустимое имя пользователя (3–16 символов, только буквы, цифры, дефисы и подчёркивания).',
+        'username-taken' => 'Указанное имя пользователя уже используется.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Вы успешно зарегистрировались, проверьте свою электронную почту.',
     ],
 
     'reset' => [

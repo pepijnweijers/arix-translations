@@ -11,7 +11,7 @@ return [
         'login' => 'Login',
 
         'must-be-provided' => 'Un username sau un email trebuie specificate.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Prima dată aici? Creează un cont.',
         'please-enter-password' => 'Te rog introdu parola contului tau',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
+        'title' => 'Creează un cont',
+        'username' => 'Nume de utilizator',
+        'firstname' => 'Prenume',
+        'lastname' => 'Nume de familie',
         'email' => 'Email',
-        'register' => 'Register',
+        'register' => 'Înregistrare',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Ai deja un cont?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Un nume de utilizator este necesar.',
+        'email-required' => 'O adresă de email este necesară.',
+        'valid-email-required' => 'O adresă de email validă este necesară.',
+        'firstname-required' => 'Un prenume este necesar.',
+        'lastname-required' => 'Un nume de familie este necesar.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Un nume de utilizator valid este necesar (3-16 caractere, doar litere, cifre, liniuțe și underscore-uri).',
+        'username-taken' => 'Numele de utilizator furnizat este deja în uz.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Te-ai înregistrat cu succes, verifică emailul.',
     ],
 
     'reset' => [

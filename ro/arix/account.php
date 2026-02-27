@@ -31,7 +31,7 @@ return [
         'on' => 'Pornit',
         'off' => 'Oprit',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Modul de confidențialitate',
     ],
 
     'twofactor' => [
@@ -73,7 +73,7 @@ return [
         'delete-key' => 'Sterge cheia',
         'all-requests-invalidated-1' => 'Toate cererile folosind',
         'all-requests-invalidated-2' => 'aceasta cheie vor fi invalidate.',
-        'loading' => 'Loading...',
+        'loading' => 'Se încarcă...',
         'no-key-found' => 'Nu exista o cheie API pentru acest cont.',
         'last-used' => 'Ultima folosire',
     ],

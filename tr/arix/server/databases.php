@@ -7,7 +7,7 @@ return [
     'have-been-allocated' => 'Bu sunucuya {{current}}/{{max}} veritabanı tahsis edilmiştir.',
     'name' => 'Ad',
     'username' => 'Kullanıcı Adı',
-    'endpoint' => 'Endpoint',
+    'endpoint' => 'Son Nokta',
     'details' => 'Detaylar',
     'connection-from' => 'Bağlantılar',
     'password' => 'Şifre',

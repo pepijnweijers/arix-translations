@@ -31,7 +31,7 @@ return [
         'on' => 'Attivato',
         'off' => 'Disattivato',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Modalità privacy',
     ],
 
     'twofactor' => [

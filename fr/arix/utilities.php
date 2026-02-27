@@ -12,7 +12,7 @@ return [
     'restoring-backup' => 'Restauration de la sauvegarde',
     'unavailable' => 'Non disponible',
     'status' => 'Statut',
-    'CPU' => 'CPU', ##Processeur pourrait être utiliser
+    'CPU' => 'CPU',
     'memory' => 'Mémoire',
     'disk' => 'Disque',
     'unlimited' => 'Illimité',

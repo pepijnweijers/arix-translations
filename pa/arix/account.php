@@ -31,7 +31,7 @@ return [
         'on' => 'ਚਾਲੂ',
         'off' => 'ਬੰਦ',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'ਨਿੱਜਤਾ ਮੋਡ',
     ],
 
     'twofactor' => [

@@ -22,6 +22,10 @@ return [
     'schedules' => 'Расписания',
     'users' => 'Пользователи',
     'startup' => 'Запуск',
+    'plugins' => 'Плагины',
+    'properties' => 'Свойства',
+    'versions' => 'Версии',
+    'subdomains' => 'Поддомены',
     'admin-view' => 'Просмотр администратора',
 
     'general' => 'Общее',

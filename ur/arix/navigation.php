@@ -24,6 +24,11 @@ return [
     'startup' => 'شروع ہونا',
     'admin-view' => 'ایڈمن دیکھیں',
 
+    'plugins' => 'پلگ ان',
+    'properties' => 'خصوصیات',
+    'versions' => 'ورژن',
+    'subdomains' => 'ذیلی ڈومین',
+
     'general' => 'عام',
     'management' => 'انتظام',
     'configuration' => 'ترتیب',

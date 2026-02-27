@@ -16,7 +16,7 @@ return [
     'user-email' => 'Nutzer E-Mail',
     'user-email-description' => 'Gib die E-Mail-Adresse des Benutzers ein, den du als Unterbenutzer für diesen Server einladen möchtest.',
 
-    'select-all-permissions' => 'Select all permissions',
+    'select-all-permissions' => 'Alle Berechtigungen auswählen',
     'modify-permissions-for' => 'Berechtigungen bearbeiten für',
     'view-permissions-for' => 'Berechtigungen ansehen für',
     'create-new-subuser' => 'neuen Unterbenutzer anlegen',

@@ -56,10 +56,10 @@ return [
         'enabled' => 'Agendamento Habilitado',
         'enabled-description' => 'Este agendamento será executado automaticamente se estiver habilitado.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Modo Fácil',
+        'easy-mode-description' => 'Mudar para o modo avançado para configuração cron personalizada',
+        'easy' => 'Fácil',
+        'advanced' => 'Avançado',
 
         'save-changes' => 'Salvar alterações',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'Uma tarefa de backup não pode ser criada quando o limite de backup do servidor está definido para 0.',
         'edit-task' => 'Editar Tarefa',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Modo Fácil',
+        'easy-mode-description' => 'Mudar para o modo avançado para configuração cron personalizada',
+        'easy' => 'Fácil',
+        'advanced' => 'Avançado',
 
         'save-changes' => 'Salvar Alterações',
         'create-task' => 'Criar Tarefa',

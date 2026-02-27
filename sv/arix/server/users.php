@@ -16,7 +16,7 @@ return [
     'user-email' => 'Användarens E-Post',
     'user-email-description' => 'Ange e-postadressen till den användare du vill bjuda in som delanvändare för denna server.',
 
-    'select-all-permissions' => 'Select all permissions',
+    'select-all-permissions' => 'Välj alla behörigheter',
     'modify-permissions-for' => 'Ändra behörigheter för',
     'view-permissions-for' => 'Visa behörigheter för',
     'create-new-subuser' => 'Skapa ny delanvändare',

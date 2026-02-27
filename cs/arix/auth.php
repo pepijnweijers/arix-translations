@@ -11,7 +11,7 @@ return [
         'login' => 'Přihlásit se',
 
         'must-be-provided' => 'Nezadali jste uživatelské jméno nebo email.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Jste tu nový? Vytvořte si účet.',
         'please-enter-password' => 'Prosím zadejte heslo',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
+        'title' => 'Vytvořit účet',
+        'username' => 'Uživatelské jméno',
+        'firstname' => 'Jméno',
+        'lastname' => 'Příjmení',
         'email' => 'Email',
-        'register' => 'Register',
+        'register' => 'Registrovat',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Již máte účet?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Uživatelské jméno je povinné.',
+        'email-required' => 'Emailová adresa je povinná.',
+        'valid-email-required' => 'Je požadována platná emailová adresa.',
+        'firstname-required' => 'Jméno je povinné.',
+        'lastname-required' => 'Příjmení je povinné.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Je požadováno platné uživatelské jméno (3–16 znaků, pouze písmena, čísla, pomlčky a podtržítka).',
+        'username-taken' => 'Zadané uživatelské jméno je již používáno.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Úspěšně jste se zaregistrovali, zkontrolujte svůj email.',
     ],
 
     'reset' => [

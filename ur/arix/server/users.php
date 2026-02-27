@@ -16,7 +16,7 @@ return [
     'user-email' => 'صارف کا ای میل',
     'user-email-description' => 'اس سرور کے لیے ذیلی صارف کے طور پر دعوت بھیجنا چاہتے ہیں، توصاف دینے والے صارف کا ای میل ڈالیں۔',
 
-    'select-all-permissions' => 'Select all permissions',
+    'select-all-permissions' => 'تمام اجازتیں منتخب کریں',
     'modify-permissions-for' => 'اختیارات میں ترتیب دینا',
     'view-permissions-for' => 'اختیارات دیکھیں',
     'create-new-subuser' => 'نیا ذیلی صارف بنائیں',

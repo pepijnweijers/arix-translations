@@ -11,7 +11,7 @@ return [
         'login' => 'لاگ ان',
 
         'must-be-provided' => 'ایک صارف کا نام یا ای میل فراہم کیا جانا چاہئے۔',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'یہاں نئے ہیں؟ ایک اکاؤنٹ بنائیں۔',
         'please-enter-password' => 'براہ کرم اپنا اکاؤنٹ پاسورڈ درج کریں',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'اکاؤنٹ بنائیں',
+        'username' => 'صارف کا نام',
+        'firstname' => 'پہلا نام',
+        'lastname' => 'آخری نام',
+        'email' => 'ای میل',
+        'register' => 'رجسٹر کریں',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'پہلے سے اکاؤنٹ ہے؟',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'صارف کا نام درکار ہے۔',
+        'email-required' => 'ای میل ایڈریس درکار ہے۔',
+        'valid-email-required' => 'ایک درست ای میل ایڈریس درکار ہے۔',
+        'firstname-required' => 'پہلا نام درکار ہے۔',
+        'lastname-required' => 'آخری نام درکار ہے۔',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'ایک درست صارف نام درکار ہے (3-16 حروف، صرف حروف، اعداد، ڈیش اور انڈرسکور)۔',
+        'username-taken' => 'فراہم کردہ صارف نام پہلے سے استعمال میں ہے۔',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'آپ نے کامیابی سے رجسٹر کر لیا ہے، اپنی ای میل چیک کریں۔',
     ],
 
     'reset' => [

@@ -22,6 +22,10 @@ return [
     'schedules' => 'Pianificazioni',
     'users' => 'Utenti',
     'startup' => 'Avvio',
+    'plugins' => 'Plugin',
+    'properties' => 'Proprietà',
+    'versions' => 'Versioni',
+    'subdomains' => 'Sottodomini',
     'admin-view' => 'Vista Amministratore',
 
     'general' => 'Generale',

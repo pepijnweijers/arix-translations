@@ -31,7 +31,7 @@ return [
         'on' => 'Açık',
         'off' => 'Kapalı',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Gizlilik Modu',
     ],
 
     'twofactor' => [

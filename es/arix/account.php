@@ -4,7 +4,7 @@ return [
     'account-overview' => 'Descripción general de la cuenta',
     'twofactor-messagebox' => 'Su cuenta debe tener habilitada la autenticación de dos factores para poder continuar.',
     'apikey' => 'Llave API',
-    'sshkey' => 'Llave Key',
+    'sshkey' => 'Llave SSH',
 
     'update-password' => [
         'current' => 'Contraseña actual',
@@ -31,7 +31,7 @@ return [
         'on' => 'Encendido',
         'off' => 'Apagado',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Modo de privacidad',
     ],
 
     'twofactor' => [
@@ -56,52 +56,52 @@ return [
             'enable' => 'Habilitar',
             'cancel' => 'Cancelar',
         ],
+    ],
 
-        'apiKey' => [
-            'label' => 'Descripción',
-            'description' => 'Una descripción de esta clave API.',
-            'allowedIPs-label' => 'IPs permitidas',
-            'allowedIPs-description' => 'Deje en blanco para permitir que cualquier dirección IP use esta clave API, de lo contrario, proporcione cada dirección IP en una nueva línea.',
-            'createButton' => 'Crear',
+    'apiKey' => [
+        'label' => 'Descripción',
+        'description' => 'Una descripción de esta clave API.',
+        'allowedIPs-label' => 'IPs permitidas',
+        'allowedIPs-description' => 'Deje en blanco para permitir que cualquier dirección IP use esta clave API, de lo contrario, proporcione cada dirección IP en una nueva línea.',
+        'createButton' => 'Crear',
 
-            'your-keys' => 'Tu clave API',
-            'store-save' => 'La clave API que has solicitado se muestra a continuación. Por favor, guárdala en un lugar seguro, no se mostrará de nuevo.',
-            'close' => 'Cerrar',
+        'your-keys' => 'Tu clave API',
+        'store-save' => 'La clave API que has solicitado se muestra a continuación. Por favor, guárdala en un lugar seguro, no se mostrará de nuevo.',
+        'close' => 'Cerrar',
 
-            'delete-api-key' => 'Eliminar clave API',
+        'delete-api-key' => 'Eliminar clave API',
+        'delete-key' => 'Eliminar clave',
+        'all-requests-invalidated-1' => 'Todas las solicitudes que utilizan la',
+        'all-requests-invalidated-2' => 'clave serán invalidadas.',
+        'loading' => 'Cargando...',
+        'no-key-found' => 'No existen claves API para esta cuenta.',
+        'last-used' => 'Último usado',
+    ],
+
+    'sshKey' => [
+        'loading' => 'Cargando...',
+        'no-key-found' => 'No existen claves SSH para esta cuenta.',
+        'added-on' => 'Añadido el',
+
+        'createForm' => [
+            'key-name' => 'Nombre de la clave SSH',
+            'public-key' => 'Clave pública',
+            'public-key-desc' => 'Ingrese su clave SSH pública.',
+            'save' => 'Guardar',
+        ],
+
+        'deleteForm' => [
+            'delete-ssh-key' => 'Eliminar clave SSH',
             'delete-key' => 'Eliminar clave',
-            'all-requests-invalidated-1' => 'Todas las solicitudes que utilizan la',
-            'all-requests-invalidated-2' => 'clave serán invalidadas.',
-            'loading' => 'Cargando...',
-            'no-key-found' => 'No existen claves API para esta cuenta.',
-            'last-used' => 'Último usado',
+            'will-invalidate-1' => 'Eliminar la',
+            'will-invalidate-2' => 'clave SSH invalidará su uso en el Panel.',
         ],
+    ],
 
-        'sshKey' => [
-            'loading' => 'Cargando...',
-            'no-key-found' => 'No existen claves SSH para esta cuenta.',
-            'added-on' => 'Añadido el',
-
-            'createForm' => [
-                'key-name' => 'Nombre de la clave SSH',
-                'public-key' => 'Clave pública',
-                'public-key-desc' => 'Ingrese su clave SSH pública.',
-                'save' => 'Guardar',
-            ],
-
-            'deleteForm' => [
-                'delete-ssh-key' => 'Eliminar clave SSH',
-                'delete-key' => 'Eliminar clave',
-                'will-invalidate-1' => 'Eliminar la',
-                'will-invalidate-2' => 'clave SSH invalidará su uso en el Panel.',
-            ],
-        ],
-
-        'recoveryTokensDialog' => [
-            'title' => 'Autenticación de dos pasos habilitada',
-            'description' => 'Guarde los códigos a continuación en un lugar seguro. Si pierde el acceso a su teléfono, puede usar estos códigos de respaldo para iniciar sesión.',
-            'alert' => 'Estos códigos no se mostrarán nuevamente.',
-            'doneButton' => 'Listo',
-        ],
-        ]
+    'recoveryTokensDialog' => [
+        'title' => 'Autenticación de dos pasos habilitada',
+        'description' => 'Guarde los códigos a continuación en un lugar seguro. Si pierde el acceso a su teléfono, puede usar estos códigos de respaldo para iniciar sesión.',
+        'alert' => 'Estos códigos no se mostrarán nuevamente.',
+        'doneButton' => 'Listo',
+    ],
 ];

@@ -56,10 +56,10 @@ return [
         'enabled' => 'Programación habilitada',
         'enabled-description' => 'Esta programación se ejecutará automáticamente si está habilitada.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Modo fácil',
+        'easy-mode-description' => 'Cambiar al modo avanzado para configuración cron personalizada',
+        'easy' => 'Fácil',
+        'advanced' => 'Avanzado',
 
         'save-changes' => 'Guardar cambios',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'No se puede crear una tarea de respaldo cuando el límite de respaldo del servidor está establecido en 0.',
         'edit-task' => 'Editar tarea',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Modo fácil',
+        'easy-mode-description' => 'Cambiar al modo avanzado para configuración cron personalizada',
+        'easy' => 'Fácil',
+        'advanced' => 'Avanzado',
 
         'save-changes' => 'Guardar cambios',
         'create-task' => 'Crear tarea',

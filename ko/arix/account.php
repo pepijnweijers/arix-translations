@@ -31,7 +31,7 @@ return [
         'on' => '켜기',
         'off' => '끄기',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => '개인 정보 보호 모드',
     ],
 
     'twofactor' => [
@@ -93,7 +93,7 @@ return [
         'deleteForm' => [
             'delete-ssh-key' => 'SSH 키 삭제',
             'delete-key' => '키 삭제',
-            'will-invalidate-1' => '',
+            'will-invalidate-1' => '제거하면',
             'will-invalidate-2' => 'SSH 키를 제거하면 사용이 무효화됩니다.',
         ],
     ],

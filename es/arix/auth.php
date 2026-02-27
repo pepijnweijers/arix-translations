@@ -11,7 +11,7 @@ return [
         'login' => 'Iniciar sesión',
 
         'must-be-provided' => 'Se debe proporcionar un nombre de usuario o correo electrónico.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => '¿Nuevo aquí? Crea una cuenta.',
         'please-enter-password' => 'Por favor, ingresa la contraseña de tu cuenta.',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'Crear una cuenta',
+        'username' => 'Nombre de usuario',
+        'firstname' => 'Nombre',
+        'lastname' => 'Apellido',
+        'email' => 'Correo electrónico',
+        'register' => 'Registrarse',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => '¿Ya tienes una cuenta?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Se requiere un nombre de usuario.',
+        'email-required' => 'Se requiere una dirección de correo electrónico.',
+        'valid-email-required' => 'Se requiere una dirección de correo electrónico válida.',
+        'firstname-required' => 'Se requiere un nombre.',
+        'lastname-required' => 'Se requiere un apellido.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Se requiere un nombre de usuario válido (3-16 caracteres, solo letras, números, guiones y guiones bajos).',
+        'username-taken' => 'El nombre de usuario proporcionado ya está en uso.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Te has registrado exitosamente, revisa tu correo electrónico.',
     ],
 
     'reset' => [

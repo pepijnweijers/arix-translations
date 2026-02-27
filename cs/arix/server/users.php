@@ -16,7 +16,7 @@ return [
     'user-email' => 'Email uživatele',
     'user-email-description' => 'Zadejte jméno uživatele kterého si přejete pozvat ke správě tohoto serveru.',
 
-    'select-all-permissions' => 'Select all permissions',
+    'select-all-permissions' => 'Vybrat všechna oprávnění',
     'modify-permissions-for' => 'Upravit oprávnění pro',
     'view-permissions-for' => 'Zobrazit oprávnění pro',
     'create-new-subuser' => 'Vytvořit nového sub-uživatele',

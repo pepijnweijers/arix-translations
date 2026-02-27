@@ -23,6 +23,10 @@ return [
     'users' => 'ਯੂਜ਼ਰਾਂ',
     'startup' => 'ਸ਼ੁਰੂਆਤ',
     'admin-view' => 'ਐਡਮਿਨ ਦੇਖ',
+    'plugins' => 'ਪਲੱਗਇਨ',
+    'properties' => 'ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ',
+    'versions' => 'ਵਰਜਨ',
+    'subdomains' => 'ਉਪ-ਡੋਮੇਨ',
 
     'general' => 'ਜਨਰਲ',
     'management' => 'ਮੈਨੇਜਮੈਂਟ',

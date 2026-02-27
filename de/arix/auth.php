@@ -7,11 +7,11 @@ return [
         'title' => 'Login zum Fortfahren',
         'username-or-email' => 'Benutzername oder E-Mail',
         'password' => 'Passwort',
-        'passwort-vergessen' => 'Passwort vergessen?',
+        'forgot-password' => 'Passwort vergessen?',
         'login' => 'Anmelden',
 
         'must-be-provided' => 'Ein Benutzername oder eine E-Mail muss angegeben werden.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Neu hier? Erstelle ein Konto.',
         'please-enter-password' => 'Bitte gib dein Kontopasswort ein',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'Konto erstellen',
+        'username' => 'Benutzername',
+        'firstname' => 'Vorname',
+        'lastname' => 'Nachname',
+        'email' => 'E-Mail',
+        'register' => 'Registrieren',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Bereits ein Konto?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Ein Benutzername ist erforderlich.',
+        'email-required' => 'Eine E-Mail-Adresse ist erforderlich.',
+        'valid-email-required' => 'Eine gültige E-Mail-Adresse ist erforderlich.',
+        'firstname-required' => 'Ein Vorname ist erforderlich.',
+        'lastname-required' => 'Ein Nachname ist erforderlich.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Ein gültiger Benutzername ist erforderlich (3–16 Zeichen, Buchstaben, Zahlen, Bindestriche und Unterstriche).',
+        'username-taken' => 'Der angegebene Benutzername ist bereits vergeben.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Du hast dich erfolgreich registriert, überprüfe deine E-Mail.',
     ],
 
     'reset' => [

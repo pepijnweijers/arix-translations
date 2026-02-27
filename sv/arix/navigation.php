@@ -23,6 +23,10 @@ return [
     'users' => 'Användare',
     'startup' => 'Upstart',
     'admin-view' => 'Adminvy',
+    'plugins' => 'Tillägg',
+    'properties' => 'Egenskaper',
+    'versions' => 'Versioner',
+    'subdomains' => 'Subdomäner',
 
     'general' => 'Allmän',
     'management' => 'Hantering',

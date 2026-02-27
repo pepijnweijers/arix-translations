@@ -31,7 +31,7 @@ return [
         'on' => 'Zap.',
         'off' => 'Vyp.',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Soukromý režim',
     ],
 
     'twofactor' => [
@@ -87,7 +87,7 @@ return [
             'key-name' => 'Jméno SSH klíče',
             'public-key' => 'Veřejný klíč',
             'public-key-desc' => 'zadejte váš veřejný SSH klíč.',
-            'save' => 'save',
+            'save' => 'Uložit',
         ],
 
         'deleteForm' => [
@@ -100,7 +100,6 @@ return [
 
     'recoveryTokensDialog' => [
         'title' => 'Dvoufázové ověření zapnuto',
-        'description' => 'Store the codes below somewhere safe. If you lose access to your phone you can use these backup codes to sign in.',
         'description' => 'Uložte si kódy níže na bezpečné místo. Pokud ztratíte vaše zařízení, můžete tyto kódy použít k přihlášení.',
         'alert' => 'Tyto kódy se znovu nezobrazí.',
         'doneButton' => 'Hotovo',

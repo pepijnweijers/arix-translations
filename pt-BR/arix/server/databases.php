@@ -33,6 +33,6 @@ return [
         'connection-from' => 'Conexão De',
         'connection-from-description' => 'De onde as conexões devem ser permitidas. Deixe em branco para permitir conexões de qualquer lugar.',
         'cancel' => 'Cancelar',
-        'create-dabatase' => 'Criar Banco de Dados'
+        'create-database' => 'Criar Banco de Dados'
     ]
 ];

@@ -56,10 +56,10 @@ return [
         'enabled' => 'Розклад увімкнено',
         'enabled-description' => 'Цей розклад автоматично виконуватиметься, якщо він увімкнений.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Простий режим',
+        'easy-mode-description' => 'Переключитися до розширеного режиму для персональної конфігурації cron',
+        'easy' => 'Простий',
+        'advanced' => 'Розширений',
 
         'save-changes' => 'Зберегти зміни',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'Завдання з створення резервної копії не може бути створено, якщо обмеження резервного копіювання сервера встановлено в 0.',
         'edit-task' => 'Редагувати завдання',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Простий режим',
+        'easy-mode-description' => 'Переключитися до розширеного режиму для персональної конфігурації cron',
+        'easy' => 'Простий',
+        'advanced' => 'Розширений',
 
         'save-changes' => 'Зберегти зміни',
         'create-task' => 'Створити завдання',

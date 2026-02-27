@@ -5,9 +5,9 @@ return [
     'node-under-maintenance' => 'Вузол цього сервера в даний момент обслуговується, і всі дії недоступні.',
     'running-installation-process' => 'Цей сервер в даний момент виконує процес встановлення, і більшість дій недоступні.',
     'being-transferred' => 'Цей сервер в даний момент мігрується на інший вузол, і всі дії недоступні.',
-    'view-all' => 'View All',
-    'clear-console' => 'Clear Console',
-    'share-logs' => 'Share Logs',
-    'floating-console' => 'Floating Console',
+    'view-all' => 'Показати все',
+    'clear-console' => 'Очистити консоль',
+    'share-logs' => 'Поділитися журналами',
+    'floating-console' => 'Плаваюча консоль',
     'type-a-command' => 'Введіть команду...',
 ];

@@ -5,9 +5,9 @@ return [
     'node-under-maintenance' => 'Il nodo di questo server è attualmente in manutenzione e tutte le azioni non sono disponibili.',
     'running-installation-process' => 'Questo server sta attualmente eseguendo il processo di installazione e la maggior parte delle azioni non è disponibile.',
     'being-transferred' => 'Questo server è attualmente in fase di trasferimento su un altro nodo e tutte le azioni non sono disponibili.',
-    'view-all' => 'View All',
-    'clear-console' => 'Clear Console',
-    'share-logs' => 'Share Logs',
-    'floating-console' => 'Floating Console',
+    'view-all' => 'Visualizza tutto',
+    'clear-console' => 'Pulisci la console',
+    'share-logs' => 'Condividi i log',
+    'floating-console' => 'Console flottante',
     'type-a-command' => 'Digita un comando...',
 ];

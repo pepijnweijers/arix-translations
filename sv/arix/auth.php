@@ -11,7 +11,7 @@ return [
         'login' => 'Logga in',
 
         'must-be-provided' => 'Ett användarnamn eller e-postadress måste anges.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Ny här? Skapa ett konto.',
         'please-enter-password' => 'Vänligen ange ditt kontolösenord',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'Skapa ett konto',
+        'username' => 'Användarnamn',
+        'firstname' => 'Förnamn',
+        'lastname' => 'Efternamn',
+        'email' => 'E-Post',
+        'register' => 'Registrera',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Har du redan ett konto?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Ett användarnamn krävs.',
+        'email-required' => 'En e-postadress krävs.',
+        'valid-email-required' => 'En giltig e-postadress krävs.',
+        'firstname-required' => 'Ett förnamn krävs.',
+        'lastname-required' => 'Ett efternamn krävs.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Ett giltigt användarnamn krävs (3-16 tecken, endast bokstäver, siffror, bindestreck och understreck).',
+        'username-taken' => 'Det angivna användarnamnet används redan.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Du har registrerat dig, kontrollera din e-post.',
     ],
 
     'reset' => [

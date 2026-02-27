@@ -8,7 +8,7 @@ return[
 
     'IP' => 'IP',
     'port' => 'Port',
-    'notes' => 'Uzel',
+    'notes' => 'Poznámky',
     'primary' => 'Primární',
     'make-primary' => 'Nastavit jako primární',
 

@@ -31,7 +31,7 @@ return [
         'on' => 'Ein',
         'off' => 'Aus',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Datenschutzmodus',
     ],
 
     'twofactor' => [
@@ -73,13 +73,13 @@ return [
         'delete-key' => 'Schlüssel löschen',
         'all-requests-invalidated-1' => 'Alle Anfragen, die den',
         'all-requests-invalidated-2' => 'Der Schlüssel wird für ungültig erklärt.',
-        'loading' => 'Loading...',
+        'loading' => 'Laden...',
         'no-key-found' => 'Für dieses Konto existieren keine API-Schlüssel.',
         'last-used' => 'Zuletzt verwendet',
     ],
 
     'sshKey' => [
-        'loading' => 'Loading...',
+        'loading' => 'Laden...',
         'no-key-found' => 'Für dieses Konto existieren keine SSH-Schlüssel.',
         'added-on' => 'Hinzugefügt am',
 
@@ -99,9 +99,9 @@ return [
     ],
 
     'recoveryTokensDialog' => [
-        'title' => 'Two-Step Authentication Enabled',
+        'title' => 'Zwei-Schritt-Authentifizierung aktiviert',
         'description' => 'Bewahre die folgenden Codes an einem sicheren Ort auf. Wenn du den Zugang zu deinem Telefon verlierst, kannst du diese Backup-Codes verwenden, um dich anzumelden',
         'alert' => 'Diese Codes werden nicht mehr angezeigt.',
-        'doneButton' => 'Done',
+        'doneButton' => 'Fertig',
     ],
 ];

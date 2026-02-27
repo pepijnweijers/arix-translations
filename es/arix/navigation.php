@@ -22,6 +22,10 @@ return [
     'schedules' => 'Programaciones',
     'users' => 'Usuarios',
     'startup' => 'Inicio',
+    'plugins' => 'Plugins',
+    'properties' => 'Propiedades',
+    'versions' => 'Versiones',
+    'subdomains' => 'Subdominios',
     'admin-view' => 'Vista de administrador',
 
     'general' => 'General',

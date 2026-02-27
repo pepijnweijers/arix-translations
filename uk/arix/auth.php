@@ -11,7 +11,7 @@ return [
         'login' => 'Вхід',
 
         'must-be-provided' => 'Необхідно вказати ім\'я користувача або електронну пошту.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Вперше тут? Створіть обліковий запис.',
         'please-enter-password' => 'Будь ласка, введіть пароль вашого облікового запису',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'Створити обліковий запис',
+        'username' => 'Ім\'я користувача',
+        'firstname' => 'Ім\'я',
+        'lastname' => 'Прізвище',
+        'email' => 'Адреса електронної пошти',
+        'register' => 'Зареєструватися',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Вже є обліковий запис?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Необхідно вказати ім\'я користувача.',
+        'email-required' => 'Необхідно вказати адресу електронної пошти.',
+        'valid-email-required' => 'Необхідно вказати дійсну адресу електронної пошти.',
+        'firstname-required' => 'Необхідно вказати ім\'я.',
+        'lastname-required' => 'Необхідно вказати прізвище.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Необхідно вказати допустиме ім\'я користувача (3–16 символів, лише літери, цифри, дефіси та підкреслення).',
+        'username-taken' => 'Вказане ім\'я користувача вже використовується.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Ви успішно зареєструвалися, перевірте свою електронну пошту.',
     ],
 
     'reset' => [
