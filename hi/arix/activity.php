@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'account-activity-log' => 'اکاؤنٹ سرگرمی کا لاگ',
-    'activity-log' => 'سرگرمی کا لاگ',
-    'clear-filters' => 'فلٹر صاف کریں',
-    'metadata' => 'میٹا ڈیٹا',
-    'close' => 'بند کریں',
-    'no-logs-server' => 'اس سرور کے لئے کوئی سرگرمی لاگ دستیاب نہیں ہیں۔'
+    'account-activity-log' => 'खाता गतिविधि लॉग',
+    'activity-log' => 'गतिविधि लॉग',
+    'clear-filters' => 'फ़िल्टर साफ़ करें',
+    'metadata' => 'मेटाडाटा',
+    'close' => 'बंद करें',
+    'no-logs-server' => 'इस सर्वर के लिए कोई गतिविधि लॉग उपलब्ध नहीं है।'
 ];

@@ -1,13 +1,13 @@
 <?php
 
 return [
-    'console' => 'Console',
-    'node-under-maintenance' => 'اس سرور کا نوڈ فی الحال دیکھ بھال کے تحت ہے اور تمام کارروائیاں دستیاب نہیں ہیں۔',
-    'running-installation-process' => 'یہ سرور فی الحال اپنی تنصیب کا عمل چلا رہا ہے اور زیادہ تر کارروائیاں دستیاب نہیں ہیں۔.',
-    'being-transferred' => 'یہ سرور فی الحال دوسرے نوڈ میں منتقل کیا جا رہا ہے اور تمام کارروائیاں دستیاب نہیں ہیں۔',
-    'view-all' => 'View All',
-    'clear-console' => 'Clear Console',
-    'share-logs' => 'Share Logs',
-    'floating-console' => 'Floating Console',
-    'type-a-command' => 'کمانڈ ٹائپ کریں..',
+    'console' => 'कंसोल',
+    'node-under-maintenance' => 'इस सर्वर का नोड फिलहाल रखरखाव के अधीन है और सभी क्रियाएँ उपलब्ध नहीं हैं।',
+    'running-installation-process' => 'यह सर्वर वर्तमान में अपना इंस्टॉलेशन प्रक्रिया चला रहा है और अधिकांश क्रियाएँ उपलब्ध नहीं हैं।',
+    'being-transferred' => 'यह सर्वर वर्तमान में किसी अन्य नोड पर ट्रांसफ़र किया जा रहा है और सभी क्रियाएँ उपलब्ध नहीं हैं।',
+    'view-all' => 'सभी देखें',
+    'clear-console' => 'कंसोल साफ़ करें',
+    'share-logs' => 'लॉग साझा करें',
+    'floating-console' => 'फ़्लोटिंग कंसोल',
+    'type-a-command' => 'कोई कमांड टाइप करें...',
 ];

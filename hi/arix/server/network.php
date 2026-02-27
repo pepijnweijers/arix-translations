@@ -1,18 +1,18 @@
 <?php
 
 return [
-    'network' => 'نیٹ ورک',
-    'manage-allocation' => 'تخصیص کا منظم کریں',
-    'create-allocation' => 'تخصیص بنائیں',
-    'currently-using' => 'آپ فی الحال اس سرور کے لئے مجاز ہونے والی تخصیصوں میں {{current}} استعمال کر رہے ہیں، جبکہ مجاز تخصیصوں کا زیادہ سے زیادہ حد {{max}} ہے۔',
+    'network' => 'नेटवर्क',
+    'manage-allocation' => 'आवंटन प्रबंधित करें',
+    'create-allocation' => 'आवंटन बनाएँ',
+    'currently-using' => 'आप वर्तमान में इस सर्वर के लिए अनुमत आवंटनों में से {{current}} उपयोग कर रहे हैं, अधिकतम सीमा {{max}} है।',
 
     'IP' => 'IP',
-    'port' => 'پورٹ',
-    'notes' => 'نوٹس',
-    'primary' => 'پرائمری',
-    'make-primary' => 'پرائمری بنائیں',
+    'port' => 'पोर्ट',
+    'notes' => 'नोट्स',
+    'primary' => 'प्राथमिक',
+    'make-primary' => 'प्राथमिक बनाएँ',
 
-    'remove-allocation' => 'تخصیص ہٹائیں',
-    'remove-allocation-description' => 'یہ تخصیص فوراً آپ کے سرور سے ہٹا دی جائے گی۔',
-    'delete' => 'حذف کریں',
+    'remove-allocation' => 'आवंटन हटाएँ',
+    'remove-allocation-description' => 'यह आवंटन तुरंत आपके सर्वर से हटा दिया जाएगा।',
+    'delete' => 'हटाएँ',
 ];
