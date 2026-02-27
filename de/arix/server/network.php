@@ -4,7 +4,7 @@ return[
     'network' => 'Netzwerk',
     'manage-allocation' => 'Allocation verwalten',
     'create-allocation' => 'Allocation anlegen',
-    'currently-using' => 'Du nutzt gerade {{aktuell}} der {{max}} erlaubten Allocationen für diesen Server.',
+    'currently-using' => 'Du nutzt gerade {{current}} der {{max}} erlaubten Allocationen für diesen Server.',
 
     'IP' => 'IP',
     'port' => 'Port',
