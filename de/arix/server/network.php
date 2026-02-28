@@ -8,7 +8,7 @@ return[
 
     'IP' => 'IP',
     'port' => 'Port',
-    'notes' => 'Notes',
+    'notes' => 'Notizen',
     'primary' => 'Primär',
     'make-primary' => 'Primär machen',
 

@@ -33,8 +33,8 @@ return [
     'cancel' => 'İptal',
     'copied-text' => '{{text}} panoya kopyalandı.',
     'showing' => 'Gösteriliyor',
-    'to' => '',
-    'of' => '',
+    'to' => 'ile',
+    'of' => '/',
     'results' => 'sonuçlar.',
 
 ];

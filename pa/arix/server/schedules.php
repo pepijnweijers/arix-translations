@@ -56,10 +56,10 @@ return [
         'enabled' => 'ਸ਼ੈਡਿਊਲ ਸਮਰੱਥ',
         'enabled-description' => 'ਇਹ ਸ਼ੈਡਿਊਲ ਆਟੋਮੈਟਿਕ ਤੌਰ \ਤੇ ਚਲਾਇਆ ਜਾਵੇਗਾ ਜੇ ਸਮਰੱਥ ਹੋਵੇ।',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'ਸਰਲ ਮੋਡ',
+        'easy-mode-description' => 'ਕਸਟਮ ਕ੍ਰੋਨ ਸੰਰਚਨਾ ਲਈ ਉੱਨਤ ਮੋਡ ਵਿੱਚ ਬਦਲੋ',
+        'easy' => 'ਸਰਲ',
+        'advanced' => 'ਉੱਨਤ',
 
         'save-changes' => 'ਬਦਲਾਵ ਸੇਵ ਕਰੋ',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'ਜਦੋਂ ਸਰਵਰ ਦਾ ਬੈਕਅੱਪ ਸੀਮਾ 0 \ਤੇ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ ਤਾਂ ਬੈਕਅੱਪ ਟਾਸਕ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ।',
         'edit-task' => 'ਟਾਸਕ ਸੋਧੋ',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'ਸਰਲ ਮੋਡ',
+        'easy-mode-description' => 'ਕਸਟਮ ਕ੍ਰੋਨ ਸੰਰਚਨਾ ਲਈ ਉੱਨਤ ਮੋਡ ਵਿੱਚ ਬਦਲੋ',
+        'easy' => 'ਸਰਲ',
+        'advanced' => 'ਉੱਨਤ',
 
         'save-changes' => 'ਬਦਲਾਵ ਸੇਵ ਕਰੋ',
         'create-task' => 'ਟਾਸਕ ਬਣਾਓ',

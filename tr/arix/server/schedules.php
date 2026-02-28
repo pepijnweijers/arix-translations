@@ -56,10 +56,10 @@ return [
         'enabled' => 'Zaman Çizelgesi Etkin',
         'enabled-description' => 'Bu zaman çizelgesi, etkinse otomatik olarak çalıştırılacaktır.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Kolay Mod',
+        'easy-mode-description' => 'Özel cron yapılandırması için gelişmiş moda geçin',
+        'easy' => 'Kolay',
+        'advanced' => 'Gelişmiş',
 
         'save-changes' => 'Değişiklikleri Kaydet',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'Sunucunun yedekleme limiti 0 olarak ayarlandığında bir yedekleme görevi oluşturulamaz.',
         'edit-task' => 'Görevi Düzenle',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Kolay Mod',
+        'easy-mode-description' => 'Özel cron yapılandırması için gelişmiş moda geçin',
+        'easy' => 'Kolay',
+        'advanced' => 'Gelişmiş',
 
         'save-changes' => 'Değişiklikleri Kaydet',
         'create-task' => 'Görev Oluştur',

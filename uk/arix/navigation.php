@@ -33,4 +33,9 @@ return [
     'account-activity' => 'Активність облікового запису',
     'dark-light-mode' => 'Темний/Світлий режим',
     'logout' => 'Вийти',
+
+    'plugins' => 'Плагіни',
+    'properties' => 'Властивості',
+    'versions' => 'Версії',
+    'subdomains' => 'Субдомени',
 ];

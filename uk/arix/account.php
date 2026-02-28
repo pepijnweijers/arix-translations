@@ -31,7 +31,7 @@ return [
         'on' => 'Увімкнено',
         'off' => 'Вимкнено',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Режим конфіденційності',
     ],
 
     'twofactor' => [

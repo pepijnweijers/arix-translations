@@ -21,7 +21,7 @@ return [
     'stop' => 'Opreste',
     'kill' => 'Kill',
     'forcibly-stop-process' => 'Oprirea fortata a procesului',
-    'continue' => 'Continue',
+    'continue' => 'Continuă',
     'forcibly-stopping-alert' => 'Oprirea foratata a unui server poate duce la coruperea datelor.',
     'cpu-usage' => 'Utilizarea CPU',
     'memory-usage' => 'Utilizarea Memoriei',

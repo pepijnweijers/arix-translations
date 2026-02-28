@@ -8,7 +8,7 @@ return [
 
     'IP' => '아이피',
     'port' => '포트',
-    'notes' => '노트',
+    'notes' => '메모',
     'primary' => '기본',
     'make-primary' => '기본 설정',
 

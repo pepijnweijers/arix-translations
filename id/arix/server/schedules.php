@@ -56,10 +56,10 @@ return [
         'enabled' => 'Jadwal Diaktifkan',
         'enabled-description' => 'Jadwal ini akan dijalankan secara otomatis jika diaktifkan.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Mode Mudah',
+        'easy-mode-description' => 'Beralih ke mode lanjutan untuk konfigurasi cron kustom',
+        'easy' => 'Mudah',
+        'advanced' => 'Lanjutan',
 
         'save-changes' => 'Simpan perubahan',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'Tugas cadangan tidak dapat dibuat ketika batas cadangan server diatur ke 0.',
         'edit-task' => 'Edit Tugas',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Mode Mudah',
+        'easy-mode-description' => 'Beralih ke mode lanjutan untuk konfigurasi cron kustom',
+        'easy' => 'Mudah',
+        'advanced' => 'Lanjutan',
 
         'save-changes' => 'Simpan Perubahan',
         'create-task' => 'Buat Tugas',

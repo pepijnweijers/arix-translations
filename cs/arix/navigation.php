@@ -22,6 +22,10 @@ return [
     'schedules' => 'Plánovač',
     'users' => 'Uživatelé',
     'startup' => 'Spouštění',
+    'plugins' => 'Pluginy',
+    'properties' => 'Vlastnosti',
+    'versions' => 'Verze',
+    'subdomains' => 'Subdomény',
     'admin-view' => 'Administrace',
 
     'general' => 'Obecné',

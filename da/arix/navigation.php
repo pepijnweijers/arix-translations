@@ -23,6 +23,10 @@ return [
     'users' => 'Brugere',
     'startup' => 'Opstart',
     'admin-view' => 'Administrere',
+    'plugins' => 'Plugins',
+    'properties' => 'Egenskaber',
+    'versions' => 'Versioner',
+    'subdomains' => 'Subdomæner',
 
     'general' => 'Generel',
     'management' => 'Kontroller',

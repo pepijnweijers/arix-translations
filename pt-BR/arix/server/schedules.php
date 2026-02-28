@@ -42,7 +42,7 @@ return [
         'delete' => 'Excluir'
     ],
     'edit' => [
-        'title' => 'Editar agendamento',
+        'title-1' => 'Editar agendamento',
         'title-2' => 'Criar novo agendamento',
 
         'description' => 'O sistema de agendamento suporta o uso da sintaxe Cronjob ao definir quando as tarefas devem começar a ser executadas. Use os campos acima para especificar quando essas tarefas devem começar a ser executadas.',
@@ -56,10 +56,10 @@ return [
         'enabled' => 'Agendamento Ativado',
         'enabled-description' => 'Este agendamento será executado automaticamente se ativado.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Modo Fácil',
+        'easy-mode-description' => 'Mudar para o modo avançado para configuração cron personalizada',
+        'easy' => 'Fácil',
+        'advanced' => 'Avançado',
 
         'save-changes' => 'Salvar alterações',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'Uma tarefa de backup não pode ser criada quando o limite de backup do servidor está definido como 0.',
         'edit-task' => 'Editar Tarefa',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Modo Fácil',
+        'easy-mode-description' => 'Mudar para o modo avançado para configuração cron personalizada',
+        'easy' => 'Fácil',
+        'advanced' => 'Avançado',
 
         'save-changes' => 'Salvar Alterações',
         'create-task' => 'Criar Tarefa',

@@ -31,7 +31,7 @@ return [
         'on' => 'På',
         'off' => 'Av',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Integritetsläge',
     ],
 
     'twofactor' => [

@@ -23,6 +23,10 @@ return [
     'users' => '사용자',
     'startup' => '시작',
     'admin-view' => '관리자 보기',
+    'plugins' => '플러그인',
+    'properties' => '속성',
+    'versions' => '버전',
+    'subdomains' => '서브도메인',
 
     'general' => '일반',
     'management' => '관리',

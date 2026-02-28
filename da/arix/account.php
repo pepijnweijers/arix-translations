@@ -31,7 +31,7 @@ return [
         'on' => 'Til',
         'off' => 'Fra',
 
-        'privacy-mode' => 'Privacy Mode',
+        'privacy-mode' => 'Privatlivstilstand',
     ],
 
     'twofactor' => [
@@ -54,7 +54,7 @@ return [
             'qrcode-loading' => 'Venter på, at QR -kode indlæses ...',
             'enter-6digit-password' => 'Du skal indtaste den 6-cifrede kode og din adgangskode for at fortsætte.',
             'enable' => 'Aktivér',
-            'cancel' => 'Deaktiver',
+            'cancel' => 'Annuller',
         ],
     ],
 
@@ -74,7 +74,7 @@ return [
         'all-requests-invalidated-1' => 'Alle anmodninger ved hjælp af',
         'all-requests-invalidated-2' => 'Nøglen vil blive ugyldig.',
         'loading' => 'Indlæser...',
-        'no-key-found' => 'No API keys exist for this account.',
+        'no-key-found' => 'Der findes ingen API-nøgler til denne konto.',
         'last-used' => 'Sidst brugt',
     ],
 
@@ -87,7 +87,7 @@ return [
             'key-name' => 'SSH Nøgleavn',
             'public-key' => 'Offentlig nøgle',
             'public-key-desc' => 'Indtast din offentlige SSH-nøgle.',
-            'save' => 'save',
+            'save' => 'gem',
         ],
 
         'deleteForm' => [

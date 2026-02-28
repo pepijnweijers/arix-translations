@@ -11,7 +11,7 @@ return [
         'login' => 'Log på',
 
         'must-be-provided' => 'Der skal leveres et brugernavn eller en e-mail.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Ny her? Opret en konto.',
         'please-enter-password' => 'Indtast din kontoadgangskode',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'Opret en konto',
+        'username' => 'Brugernavn',
+        'firstname' => 'Fornavn',
+        'lastname' => 'Efternavn',
+        'email' => 'E-mail',
+        'register' => 'Registrer',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Har du allerede en konto?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Et brugernavn er påkrævet.',
+        'email-required' => 'En e-mailadresse er påkrævet.',
+        'valid-email-required' => 'En gyldig e-mailadresse er påkrævet.',
+        'firstname-required' => 'Et fornavn er påkrævet.',
+        'lastname-required' => 'Et efternavn er påkrævet.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Et gyldigt brugernavn er påkrævet (3-16 tegn, kun bogstaver, tal, bindestreger og understregninger).',
+        'username-taken' => 'Det angivne brugernavn er allerede i brug.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Du er nu registreret, tjek din e-mail.',
     ],
 
     'reset' => [

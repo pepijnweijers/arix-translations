@@ -56,10 +56,10 @@ return [
         'enabled' => 'Planlægning aktiveret',
         'enabled-description' => 'Denne planlægning udføres automatisk, hvis den er aktiveret.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Nem tilstand',
+        'easy-mode-description' => 'Skift til avanceret tilstand for brugerdefineret cron-konfiguration',
+        'easy' => 'Nem',
+        'advanced' => 'Avanceret',
 
         'save-changes' => 'Gem ændringer',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'En sikkerhedskopieringsopgave kan ikke oprettes, når grænsen for serverens sikkerhedskopier er sat til 0.',
         'edit-task' => 'Rediger opgave',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Nem tilstand',
+        'easy-mode-description' => 'Skift til avanceret tilstand for brugerdefineret cron-konfiguration',
+        'easy' => 'Nem',
+        'advanced' => 'Avanceret',
 
         'save-changes' => 'Gem ændringer',
         'create-task' => 'Opret opgave',

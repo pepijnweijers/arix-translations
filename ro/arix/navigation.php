@@ -23,6 +23,10 @@ return [
     'users' => 'Utilizatori',
     'startup' => 'Lansare',
     'admin-view' => 'Vizualizare Administrator',
+    'plugins' => 'Plugin-uri',
+    'properties' => 'Proprietăți',
+    'versions' => 'Versiuni',
+    'subdomains' => 'Subdomenii',
 
     'general' => 'General',
     'management' => 'Management',

@@ -8,7 +8,7 @@ return[
 
     'name' => 'Navn',
     'size' => 'Størrelse',
-    'creation-date' => 'Creation date',
+    'creation-date' => 'Oprettelsesdato',
     'checksum' => 'Kontrolsum',
 
     'failed' => 'Mislykkedes',

@@ -11,7 +11,7 @@ return [
         'login' => 'ਲਾਗਇਨ',
 
         'must-be-provided' => 'ਇੱਕ ਯੂਜ਼ਰਨੇਮ ਜਾਂ ਈਮੇਲ ਦਿੱਤੇ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ।',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'ਇੱਥੇ ਨਵੇਂ ਹੋ? ਇੱਕ ਖਾਤਾ ਬਣਾਓ।',
         'please-enter-password' => 'ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਖਾਤਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'ਖਾਤਾ ਬਣਾਓ',
+        'username' => 'ਯੂਜ਼ਰਨੇਮ',
+        'firstname' => 'ਪਹਿਲਾ ਨਾਮ',
+        'lastname' => 'ਆਖਰੀ ਨਾਮ',
+        'email' => 'ਈਮੇਲ',
+        'register' => 'ਰਜਿਸਟਰ ਕਰੋ',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'ਪਹਿਲਾਂ ਤੋਂ ਖਾਤਾ ਹੈ?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'ਯੂਜ਼ਰਨੇਮ ਲਾਜ਼ਮੀ ਹੈ।',
+        'email-required' => 'ਈਮੇਲ ਐਡਰੈੱਸ ਲਾਜ਼ਮੀ ਹੈ।',
+        'valid-email-required' => 'ਇੱਕ ਵੈਧ ਈਮੇਲ ਐਡਰੈੱਸ ਲਾਜ਼ਮੀ ਹੈ।',
+        'firstname-required' => 'ਪਹਿਲਾ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ।',
+        'lastname-required' => 'ਆਖਰੀ ਨਾਮ ਲਾਜ਼ਮੀ ਹੈ।',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'ਇੱਕ ਵੈਧ ਯੂਜ਼ਰਨੇਮ ਲਾਜ਼ਮੀ ਹੈ (3-16 ਅੱਖਰ, ਸਿਰਫ਼ ਅੱਖਰ, ਨੰਬਰ, ਡੈਸ਼ ਅਤੇ ਅੰਡਰਸਕੋਰ)।',
+        'username-taken' => 'ਦਿੱਤਾ ਯੂਜ਼ਰਨੇਮ ਪਹਿਲਾਂ ਤੋਂ ਵਰਤੋਂ ਵਿੱਚ ਹੈ।',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'ਤੁਸੀਂ ਸਫਲਤਾਪੂਰਵਕ ਰਜਿਸਟਰ ਹੋ ਗਏ ਹੋ, ਆਪਣੀ ਈਮੇਲ ਦੇਖੋ।',
     ],
 
     'reset' => [

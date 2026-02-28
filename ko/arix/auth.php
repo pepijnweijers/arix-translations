@@ -11,7 +11,7 @@ return [
         'login' => '로그인',
 
         'must-be-provided' => '사용자 이름 또는 이메일을 입력해야 합니다.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => '처음이신가요? 계정을 만드세요.',
         'please-enter-password' => '계정 비밀번호를 입력하세요.',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => '계정 만들기',
+        'username' => '사용자 이름',
+        'firstname' => '이름',
+        'lastname' => '성',
+        'email' => '이메일',
+        'register' => '가입하기',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => '이미 계정이 있으신가요?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => '사용자 이름이 필요합니다.',
+        'email-required' => '이메일 주소가 필요합니다.',
+        'valid-email-required' => '유효한 이메일 주소가 필요합니다.',
+        'firstname-required' => '이름이 필요합니다.',
+        'lastname-required' => '성이 필요합니다.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => '유효한 사용자 이름이 필요합니다 (3-16자, 문자, 숫자, 대시 및 밑줄만 가능).',
+        'username-taken' => '입력한 사용자 이름은 이미 사용 중입니다.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => '성공적으로 가입되었습니다. 이메일을 확인하세요.',
     ],
 
     'reset' => [

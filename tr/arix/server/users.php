@@ -16,7 +16,7 @@ return [
     'user-email' => 'Kullanıcı E-postası',
     'user-email-description' => 'Bu sunucu için bir alt kullanıcı olarak davet etmek istediğiniz kullanıcının e-posta adresini girin.',
 
-    'select-all-permissions' => 'Select all permissions',
+    'select-all-permissions' => 'Tüm izinleri seç',
     'modify-permissions-for' => 'İzinleri Düzenle',
     'view-permissions-for' => 'İzinleri Görüntüle',
     'create-new-subuser' => 'Yeni Alt Kullanıcı Oluştur',

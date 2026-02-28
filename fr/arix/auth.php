@@ -11,7 +11,7 @@ return [
         'login' => 'Connexion',
 
         'must-be-provided' => 'Un nom d\'utilisateur ou un e-mail doit être fourni.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Nouveau ici ? Créez un compte.',
         'please-enter-password' => 'Veuillez entrer le mot de passe de votre compte.',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'Créer un compte',
+        'username' => 'Nom d\'utilisateur',
+        'firstname' => 'Prénom',
+        'lastname' => 'Nom de famille',
+        'email' => 'E-mail',
+        'register' => 'S\'inscrire',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Vous avez déjà un compte ?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Un nom d\'utilisateur est requis.',
+        'email-required' => 'Une adresse e-mail est requise.',
+        'valid-email-required' => 'Une adresse e-mail valide est requise.',
+        'firstname-required' => 'Un prénom est requis.',
+        'lastname-required' => 'Un nom de famille est requis.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Un nom d\'utilisateur valide est requis (3-16 caractères, lettres, chiffres, tirets et underscores uniquement).',
+        'username-taken' => 'Le nom d\'utilisateur fourni est déjà utilisé.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Vous vous êtes inscrit avec succès, vérifiez votre e-mail.',
     ],
 
     'reset' => [

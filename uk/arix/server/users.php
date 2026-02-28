@@ -16,7 +16,7 @@ return [
     'user-email' => 'Email користувача',
     'user-email-description' => 'Введіть адресу електронної пошти користувача, якого ви хочете запросити як підкористувача для цього сервера.',
 
-    'select-all-permissions' => 'Select all permissions',
+    'select-all-permissions' => 'Вибрати всі дозволи',
     'modify-permissions-for' => 'Змінити дозволи для',
     'view-permissions-for' => 'Переглянути дозволи для',
     'create-new-subuser' => 'Створити нового підкористувача',

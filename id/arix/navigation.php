@@ -23,6 +23,10 @@ return [
     'users' => 'Pengguna',
     'startup' => 'Startup',
     'admin-view' => 'Tampilan Admin',
+    'plugins' => 'Plugin',
+    'properties' => 'Properti',
+    'versions' => 'Versi',
+    'subdomains' => 'Subdomain',
 
     'general' => 'Umum',
     'management' => 'Manajemen',

@@ -20,7 +20,7 @@ return [
 
     'debug' => [
         'title' => 'Debug-information',
-        'node' => 'Node',
+        'node' => 'Knude',
         'server-id' => 'Server ID',
     ],
 

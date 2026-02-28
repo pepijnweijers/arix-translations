@@ -11,7 +11,7 @@ return [
         'login' => 'Accedi',
 
         'must-be-provided' => 'Deve essere fornito un nome utente o un indirizzo email.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Nuovo qui? Crea un account.',
         'please-enter-password' => 'Inserisci la password del tuo account.',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
+        'title' => 'Crea un Account',
+        'username' => 'Nome utente',
+        'firstname' => 'Nome',
+        'lastname' => 'Cognome',
         'email' => 'Email',
-        'register' => 'Register',
+        'register' => 'Registrati',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Hai già un account?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'È richiesto un nome utente.',
+        'email-required' => 'È richiesto un indirizzo email.',
+        'valid-email-required' => 'È richiesto un indirizzo email valido.',
+        'firstname-required' => 'È richiesto un nome.',
+        'lastname-required' => 'È richiesto un cognome.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'È richiesto un nome utente valido (3-16 caratteri, solo lettere, numeri, trattini e underscore).',
+        'username-taken' => 'Il nome utente fornito è già in uso.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Ti sei registrato con successo, controlla la tua email.',
     ],
 
     'reset' => [

@@ -16,7 +16,7 @@ return [
     'user-email' => 'Email Pengguna',
     'user-email-description' => 'Masukkan alamat email pengguna yang ingin Anda undang sebagai subpengguna untuk server ini.',
 
-    'select-all-permissions' => 'Select all permissions',
+    'select-all-permissions' => 'Pilih semua izin',
     'modify-permissions-for' => 'Ubah izin untuk',
     'view-permissions-for' => 'Lihat izin untuk',
     'create-new-subuser' => 'Buat subpengguna baru',

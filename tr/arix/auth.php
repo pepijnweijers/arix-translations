@@ -11,7 +11,7 @@ return [
         'login' => 'Giriş',
 
         'must-be-provided' => 'Bir kullanıcı adı veya e-posta sağlanmalıdır.',
-        'new-here' => 'New here? Create an account.',
+        'new-here' => 'Yeni misiniz? Bir hesap oluşturun.',
         'please-enter-password' => 'Lütfen hesap şifrenizi girin',
     ],
 
@@ -42,25 +42,25 @@ return [
     ],
 
     'register' => [
-        'title' => 'Create an Account',
-        'username' => 'Username',
-        'firstname' => 'First Name',
-        'lastname' => 'Last Name',
-        'email' => 'Email',
-        'register' => 'Register',
+        'title' => 'Hesap Oluştur',
+        'username' => 'Kullanıcı Adı',
+        'firstname' => 'Ad',
+        'lastname' => 'Soyad',
+        'email' => 'E-posta',
+        'register' => 'Kayıt Ol',
 
-        'already-have-account' => 'Already have an account?',
+        'already-have-account' => 'Zaten bir hesabınız var mı?',
 
-        'username-required' => 'A username is required.',
-        'email-required' => 'An email address is required.',
-        'valid-email-required' => 'A valid email address is required.',
-        'firstname-required' => 'A first name is required.',
-        'lastname-required' => 'A last name is required.',
+        'username-required' => 'Bir kullanıcı adı gereklidir.',
+        'email-required' => 'Bir e-posta adresi gereklidir.',
+        'valid-email-required' => 'Geçerli bir e-posta adresi gereklidir.',
+        'firstname-required' => 'Bir ad gereklidir.',
+        'lastname-required' => 'Bir soyad gereklidir.',
 
-        'valid-username-required' => 'A valid username is required (3-16 characters, letters, numbers, dashes and underscores only).',
-        'username-taken' => 'The provided username is already in use.',
+        'valid-username-required' => 'Geçerli bir kullanıcı adı gereklidir (3-16 karakter, yalnızca harf, rakam, tire ve alt çizgi).',
+        'username-taken' => 'Girilen kullanıcı adı zaten kullanımda.',
 
-        'success-message' => 'You have successfully registered, check your email',
+        'success-message' => 'Başarıyla kayıt oldunuz, e-postanızı kontrol edin.',
     ],
 
     'reset' => [

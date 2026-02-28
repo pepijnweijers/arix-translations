@@ -23,6 +23,10 @@ return [
     'users' => 'Usuários',
     'startup' => 'Inicialização',
     'admin-view' => 'Visão de Admin',
+    'plugins' => 'Plugins',
+    'properties' => 'Propriedades',
+    'versions' => 'Versões',
+    'subdomains' => 'Subdomínios',
 
     'general' => 'Geral',
     'management' => 'Gerenciamento',

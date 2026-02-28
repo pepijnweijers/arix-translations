@@ -1,7 +1,7 @@
 <?php 
 
 return [
-    'schedules' => 'Schedules',
+    'schedules' => 'Scheman',
     'manage-schedules' => 'Hantera Scheman',
     'create-schedule' => 'Skapa Schema',
     'name' => 'Namn',
@@ -56,10 +56,10 @@ return [
         'enabled' => 'Schema aktiverat',
         'enabled-description' => 'Detta schema kommer att köras automatiskt om det är aktiverat.',
 
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Enkelt läge',
+        'easy-mode-description' => 'Byt till avancerat läge för anpassad cron-konfiguration',
+        'easy' => 'Enkelt',
+        'advanced' => 'Avancerat',
 
         'save-changes' => 'Spara ändringar',
     ],
@@ -79,10 +79,10 @@ return [
     'task' => [
         'message' => 'En säkerhetskopieringsuppgift kan inte skapas när serverns säkerhetskopieringsgräns är inställd på 0.',
         'edit-task' => 'Redigera Uppgift',
-        'easy-mode' => 'Easy Mode',
-        'easy-mode-description' => 'Switch to advanced mode for custom cron configuration',
-        'easy' => 'Easy',
-        'advanced' => 'Advanced',
+        'easy-mode' => 'Enkelt läge',
+        'easy-mode-description' => 'Byt till avancerat läge för anpassad cron-konfiguration',
+        'easy' => 'Enkelt',
+        'advanced' => 'Avancerat',
 
         'save-changes' => 'Spara Ändringar',
         'create-task' => 'Skapa Uppgift',
