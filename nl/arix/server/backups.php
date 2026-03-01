@@ -24,7 +24,7 @@ return[
     'try-going-back' => 'Het lijkt erop dat we geen back-ups meer hebben om je te laten zien. Ga een pagina terug.',
     'no-backups' => 'Het lijkt erop dat er momenteel geen back-ups zijn opgeslagen voor deze server.',
     'no-longer-protected' => 'Deze back-up wordt niet meer beschermd tegen geautomatiseerde of accidentele verwijderingen.',
-    'your-server-will-be-stopped' => 'Jeserver wordt gestopt. Je kunt de energiestatus niet beheren, de bestandsbeheerder niet openen en geen extra back-ups aanmaken totdat het proces is voltooid.',
+    'your-server-will-be-stopped' => 'Je server wordt gestopt. Je kunt de energiestatus niet beheren, de bestandsbeheerder niet openen en geen extra back-ups aanmaken totdat het proces is voltooid.',
     'delete-all-files' => 'Alle bestanden verwijderen voordat de back-up wordt teruggezet.',
     'permanent-operation' => 'Dit is een permanente bewerking. De back-up kan niet worden hersteld nadat deze is verwijderd.',
 

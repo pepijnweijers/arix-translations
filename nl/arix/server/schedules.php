@@ -94,7 +94,7 @@ return [
         'offset-description' => 'De wachttijd na het uitvoeren van de vorige taak voordat deze wordt uitgevoerd. Als dit de eerste taak in een schema is, wordt dit niet toegepast.',
         'payload' => 'Payload',
         'ignored-files' => 'Genegeerde bestanden',
-        'ignored-files-description' => 'Optioneel. Voeg de bestanden en mappen toe die moeten worden uitgesloten van deze back-up. Standaard wordt de inhoud van je.pteroignore-bestand gebruikt. Als je jeback-uplimiet heeft bereikt, wordt de oudste back-up verwijderd.',
+        'ignored-files-description' => 'Optioneel. Voeg de bestanden en mappen toe die moeten worden uitgesloten van deze back-up. Standaard wordt de inhoud van je.pteroignore-bestand gebruikt. Als de back-up limiet bereikt is, wordt de oudste back-up verwijderd.',
         'start-server' => 'Server starten',
         'stop-server' => 'Server stoppen',
         'restart-server' => 'Server herstarten',

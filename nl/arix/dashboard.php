@@ -11,9 +11,9 @@ return [
     'check-server-status' => 'Serverstatus controleren',
     'welcome-back' => 'Welkom terug',
     'all-servers-you-have-access-to' => 'Hier kunt je alle servers zien waartoe je toegang heeft.',
-    'your-servers' => 'Jeservers weergeven',
+    'your-servers' => 'Je servers weergeven',
     'others-servers' => 'Servers van anderen weergeven',
     'there-are-no-servers' => 'Er zijn geen andere servers om weer te geven.',
-    'there-are-no-servers-associated' => 'Er zijn geen servers gekoppeld aan jeaccount.',
+    'there-are-no-servers-associated' => 'Er zijn geen servers gekoppeld aan je account.',
     'manage-server' => 'Server beheren',
 ];

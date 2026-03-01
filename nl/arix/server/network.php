@@ -13,6 +13,6 @@ return[
     'make-primary' => 'Primair maken',
 
     'remove-allocation' => 'Toewijzing verwijderen',
-    'remove-allocation-description' => 'Deze toewijzing wordt onmiddellijk van jeserver verwijderd.',
+    'remove-allocation-description' => 'Deze toewijzing wordt onmiddellijk van je server verwijderd.',
     'delete' => 'Verwijderen'
 ];

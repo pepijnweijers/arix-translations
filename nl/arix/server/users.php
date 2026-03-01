@@ -25,7 +25,7 @@ return [
     'save' => 'Opslaan',
     'invite-user' => 'Gebruiker uitnodigen',
 
-    'only-permissions-you-assigned' => 'Alleen machtigingen die momenteel aan jeaccount zijn toegewezen, kunnen worden geselecteerd bij het aanmaken of wijzigen van andere gebruikers.',
+    'only-permissions-you-assigned' => 'Alleen machtigingen die momenteel aan je account zijn toegewezen, kunnen worden geselecteerd bij het aanmaken of wijzigen van andere gebruikers.',
 
     'delete-this-subuser' => 'Subgebruiker verwijderen?',
     'yes-remove' => 'Ja, subgebruiker verwijderen',

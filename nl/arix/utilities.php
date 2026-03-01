@@ -28,7 +28,7 @@ return [
     'disk-usage' => 'Schijfgebruik',
     'inbound-outbound' => 'Inkomend / Uitgaand',
     'low-resources' => 'Weinig resources',
-    'low-resources-desc' => 'Jeserver heeft weinig resources, zorg er voor dat je jeabonnement upgradet',
+    'low-resources-desc' => 'Je server heeft weinig resources, mogelijk moet de server worden geüpgrade.',
     'upgrade-server' => 'Server upgraden',
     'cancel' => 'Annuleren',
     'copied-text' => '{{text}} gekopieerd naar klembord.',

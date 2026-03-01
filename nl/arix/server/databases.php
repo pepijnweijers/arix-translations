@@ -29,7 +29,7 @@ return [
     'create' => [
         'title' => 'Nieuwe database aanmaken',
         'name' => 'Databasenaam',
-        'name-description' => 'Een beschrijvende naam voor jedatabase-instantie.',
+        'name-description' => 'Een beschrijvende naam voor je database-instantie.',
         'connection-from' => 'Verbinding van',
         'connection-from-description' => 'Vanaf waar verbindingen mogen worden toegestaan. Laat leeg om verbindingen van overal toe te staan.',
         'cancel' => 'Annuleren',

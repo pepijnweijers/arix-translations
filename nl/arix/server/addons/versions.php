@@ -3,7 +3,7 @@
 return[
     'versions' => 'Versies',
     'version-changer' => 'Versiewisselaar',
-    'easily-switch-version' => 'Schakel eenvoudig jeserver over naar een andere Minecraft-versie met slechts één klik!',
+    'easily-switch-version' => 'Schakel eenvoudig je server over naar een andere Minecraft-versie met slechts één klik!',
     'you-currently-on' => 'Je gebruikt momenteel',
     'select-a-version' => 'Selecteer een versie',
     'danger-zone' => 'Gevarenzone',

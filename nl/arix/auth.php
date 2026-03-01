@@ -18,7 +18,7 @@ return [
     'forgot' => [
         'title' => 'Wachtwoord opnieuw instellen',
         'email' => 'E-mail',
-        'email-description' => 'Voer het e-mailadres van je account in om instructies te ontvangen voor het opnieuw instellen van jewachtwoord.',
+        'email-description' => 'Voer het e-mailadres van je account in om instructies te ontvangen voor het opnieuw instellen van je wachtwoord.',
         'send-email' => 'E-mail verzenden',
         'return-to-login' => 'Terug naar inloggen',
 
