@@ -2,21 +2,21 @@
 
 return [
     'account-overview' => 'Accountoverzicht',
-    'twofactor-messagebox' => 'Op uw account moet tweefactorauthenticatie zijn ingeschakeld om door te gaan.',
+    'twofactor-messagebox' => 'Op je account moet Tweestapsverificatie zijn ingeschakeld om door te gaan.',
     'apikey' => 'API-sleutel',
     'sshkey' => 'SSH-sleutel',
 
     'update-password' => [
         'current' => 'Huidig wachtwoord',
         'new' => 'Nieuw wachtwoord',
-        'requirements' => 'Uw nieuwe wachtwoord moet minimaal 8 tekens lang zijn en uniek voor deze website.',
+        'requirements' => 'Je nieuwe wachtwoord moet minimaal 8 tekens lang zijn en uniek voor deze website.',
         'confirm' => 'Nieuw wachtwoord bevestigen',
-        'update' => 'Wachtwoord bijwerken',
+        'update' => 'Wachtwoord veranderen',
     ],
 
     'update-email' => [
-        'isUpdated' => 'Uw primaire e-mailadres is bijgewerkt',
-        'update' => 'E-mail bijwerken',
+        'isUpdated' => 'Je primaire e-mailadres is bijgewerkt',
+        'update' => 'E-mail veranderen',
         'email' => 'E-mail',
         'confirm' => 'Wachtwoord bevestigen',
     ],
@@ -26,33 +26,33 @@ return [
         'lightDarkMode' => 'Lichte/Donkere modus',
         'light' => 'Licht',
         'dark' => 'Donker',
-        'language' => 'Paneeltaal',
-        'panel-sounds' => 'Paneelgeluiden',
+        'language' => 'Taal',
+        'panel-sounds' => 'Geluiden',
         'on' => 'Aan',
         'off' => 'Uit',
         'privacy-mode' => 'Privacymodus',
     ],
 
     'twofactor' => [
-        'title' => 'Tweefactorauthenticatie',
-        'isEnabled' => 'Tweestapsverificatie is momenteel ingeschakeld op uw account.',
-        'isDisabled' => 'U heeft momenteel geen tweestapsverificatie ingeschakeld op uw account. Klik op de onderstaande knop om het te configureren.',
-        'disable' => 'Tweestap uitschakelen',
-        'enable' => 'Tweestap inschakelen',
+        'title' => 'Tweestapsverificatie',
+        'isEnabled' => 'Tweestapsverificatie is momenteel ingeschakeld op je account.',
+        'isDisabled' => 'Je heeft momenteel geen tweestapsverificatie ingeschakeld op je account. Klik op de onderstaande knop om het te configureren.',
+        'disable' => 'Tweestap uitzetten',
+        'enable' => 'Tweestap aanzetten',
         
         'disable-dialog' => [
             'password' => 'Wachtwoord',
             'cancel' => 'Annuleren',
-            'must-enter-password' => 'U moet uw accountwachtwoord invoeren om door te gaan.',
+            'must-enter-password' => 'Je moet je wachtwoord invoeren om door te gaan.',
             'disable' => 'Uitschakelen',
         ],
 
         'setup-dialog' => [
-            'description' => 'Scan de QR-code hierboven met de tweestapsauthenticatie-app van uw keuze. Voer vervolgens de gegenereerde 6-cijferige code in het onderstaande veld in.',
+            'description' => 'Scan de QR-code hierboven met de Tweestapsverificatie-app van je keuze. Voer vervolgens de gegenereerde 6-cijferige code in het onderstaande veld in.',
             'account-password' => 'Accountwachtwoord',
             'qrcode-loading' => 'Wachten tot QR-code is geladen...',
-            'enter-6digit-password' => 'U moet de 6-cijferige code en uw wachtwoord invoeren om door te gaan.',
-            'enable' => 'Inschakelen',
+            'enter-6digit-password' => 'Je moet de 6-cijferige code en je wachtwoord invoeren om door te gaan.',
+            'enable' => 'Zet aan',
             'cancel' => 'Annuleren',
         ],
     ],
@@ -64,8 +64,8 @@ return [
         'allowedIPs-description' => 'Laat leeg om elk IP-adres toe te staan deze API-sleutel te gebruiken, anders geef elk IP-adres op een nieuwe regel op.',
         'createButton' => 'Aanmaken',
 
-        'your-keys' => 'Uw API-sleutel',
-        'store-save' => 'De API-sleutel die u heeft aangevraagd, wordt hieronder weergegeven. Sla deze op een veilige locatie op, hij wordt niet opnieuw getoond.',
+        'your-keys' => 'Je API-sleutel',
+        'store-save' => 'De API-sleutel die je heeft aangevraagd, wordt hieronder weergegeven. Sla deze op een veilige locatie op, hij wordt niet opnieuw getoond.',
         'close' => 'Sluiten',
 
         'delete-api-key' => 'API-sleutel verwijderen',
@@ -85,7 +85,7 @@ return [
         'createForm' => [
             'key-name' => 'SSH-sleutelnaam',
             'public-key' => 'Openbare sleutel',
-            'public-key-desc' => 'Voer uw openbare SSH-sleutel in.',
+            'public-key-desc' => 'Voer je openbare SSH-sleutel in.',
             'save' => 'opslaan',
         ],
 
@@ -98,8 +98,8 @@ return [
     ],
 
     'recoveryTokensDialog' => [
-        'title' => 'Tweestapsauthenticatie ingeschakeld',
-        'description' => 'Sla de onderstaande codes op een veilige plek op. Als u geen toegang meer heeft tot uw telefoon, kunt u deze back-upcodes gebruiken om in te loggen.',
+        'title' => 'Tweestapsverificatie ingeschakeld',
+        'description' => 'Sla de onderstaande codes op een veilige plek op. Als je geen toegang meer heeft tot je telefoon, kunt je deze back-up codes gebruiken om in te loggen.',
         'alert' => 'Deze codes worden niet opnieuw weergegeven.',
         'doneButton' => 'Klaar',
     ],

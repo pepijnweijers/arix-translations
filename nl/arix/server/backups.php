@@ -21,10 +21,10 @@ return[
     'delete' => 'Verwijderen',
 
     'limit-is-0' => 'Er kunnen geen back-ups worden aangemaakt voor deze server omdat de back-uplimiet is ingesteld op 0.',
-    'try-going-back' => 'Het lijkt erop dat we geen back-ups meer hebben om u te laten zien. Ga een pagina terug.',
+    'try-going-back' => 'Het lijkt erop dat we geen back-ups meer hebben om je te laten zien. Ga een pagina terug.',
     'no-backups' => 'Het lijkt erop dat er momenteel geen back-ups zijn opgeslagen voor deze server.',
     'no-longer-protected' => 'Deze back-up wordt niet meer beschermd tegen geautomatiseerde of accidentele verwijderingen.',
-    'your-server-will-be-stopped' => 'Uw server wordt gestopt. U kunt de energiestatus niet beheren, de bestandsbeheerder niet openen en geen extra back-ups aanmaken totdat het proces is voltooid.',
+    'your-server-will-be-stopped' => 'Jeserver wordt gestopt. Je kunt de energiestatus niet beheren, de bestandsbeheerder niet openen en geen extra back-ups aanmaken totdat het proces is voltooid.',
     'delete-all-files' => 'Alle bestanden verwijderen voordat de back-up wordt teruggezet.',
     'permanent-operation' => 'Dit is een permanente bewerking. De back-up kan niet worden hersteld nadat deze is verwijderd.',
 

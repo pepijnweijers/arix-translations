@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'support' => 'Ondersteuningscentrum',
+    'support' => 'Ondersteuning',
 
     'login' => [
         'title' => 'Inloggen om door te gaan',
@@ -11,14 +11,14 @@ return [
         'login' => 'Inloggen',
 
         'must-be-provided' => 'Er moet een gebruikersnaam of e-mailadres worden opgegeven.',
-        'new-here' => 'Nieuw hier? Maak een account aan.',
-        'please-enter-password' => 'Voer uw accountwachtwoord in',
+        'new-here' => 'Nieuw? Maak een account aan.',
+        'please-enter-password' => 'Voer je accountwachtwoord in',
     ],
 
     'forgot' => [
-        'title' => 'Wachtwoord opnieuw instellen aanvragen',
+        'title' => 'Wachtwoord opnieuw instellen',
         'email' => 'E-mail',
-        'email-description' => 'Voer het e-mailadres van uw account in om instructies te ontvangen voor het opnieuw instellen van uw wachtwoord.',
+        'email-description' => 'Voer het e-mailadres van je account in om instructies te ontvangen voor het opnieuw instellen van jewachtwoord.',
         'send-email' => 'E-mail verzenden',
         'return-to-login' => 'Terug naar inloggen',
 
@@ -37,8 +37,8 @@ return [
 
         'return-to-login' => 'Terug naar inloggen',
 
-        'enter-one-of-recovery-codes' => 'Voer een van de herstelcodes in die zijn gegenereerd bij het instellen van tweefactorauthenticatie op dit account om door te gaan.',
-        'enter-two-factor' => 'Voer de tweefactortoken in die door uw apparaat is gegenereerd',
+        'enter-one-of-recovery-codes' => 'Voer een van de herstelcodes in die zijn gegenereerd bij het instellen van tweestapsverificatie op dit account om door te gaan.',
+        'enter-two-factor' => 'Voer de code in die door je apparaat is gegenereerd',
     ],
 
     'register' => [
@@ -49,7 +49,7 @@ return [
         'email' => 'E-mail',
         'register' => 'Registreren',
 
-        'already-have-account' => 'Heeft u al een account?',
+        'already-have-account' => 'Al een account?',
 
         'username-required' => 'Een gebruikersnaam is vereist.',
         'email-required' => 'Een e-mailadres is vereist.',
@@ -60,7 +60,7 @@ return [
         'valid-username-required' => 'Een geldige gebruikersnaam is vereist (3-16 tekens, letters, cijfers, koppeltekens en underscores).',
         'username-taken' => 'De opgegeven gebruikersnaam is al in gebruik.',
 
-        'success-message' => 'U heeft zich succesvol geregistreerd, controleer uw e-mail',
+        'success-message' => 'Je heeft zich succesvol geregistreerd, controleer je e-mail',
     ],
 
     'reset' => [
@@ -73,7 +73,7 @@ return [
         'return-to-login' => 'Terug naar inloggen',
         
         'password-required' => 'Een nieuw wachtwoord is vereist.',
-        'at-least-8-characters' => 'Uw nieuwe wachtwoord moet minimaal 8 tekens lang zijn.',
-        'password-does-not-match' => 'Uw nieuwe wachtwoord komt niet overeen.',
+        'at-least-8-characters' => 'Je nieuwe wachtwoord moet minimaal 8 tekens lang zijn.',
+        'password-does-not-match' => 'Je nieuwe wachtwoord komt niet overeen.',
     ],
 ];

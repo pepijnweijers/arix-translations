@@ -3,10 +3,10 @@
 return[
     'subdomains' => 'Subdomeinen',
     'manage-subdomains' => 'Subdomeinen beheren',
-    'you-are-currently-using' => 'U gebruikt momenteel {{current}} van de {{max}} toegestane subdomeinen voor deze server.',
+    'you-are-currently-using' => 'Je gebruikt momenteel {{current}} van de {{max}} toegestane subdomeinen voor deze server.',
     'subdomain' => 'Subdomein',
     'allocation' => 'Toewijzing',
-    'no-subdomains' => 'Het lijkt erop dat u geen subdomeinen heeft.',
+    'no-subdomains' => 'Het lijkt erop dat je geen subdomeinen heeft.',
     'cannot-be-created' => 'Subdomeinen kunnen niet worden aangemaakt voor deze server.',
 
     'create' => [
@@ -19,6 +19,6 @@ return[
     'delete' => [
         'delete-subdomain' => 'Subdomein verwijderen',
         'continue' => 'Doorgaan',
-        'are-you-sure' => 'Weet u zeker dat u dit subdomein wilt verwijderen?',
+        'are-you-sure' => 'Weet je zeker dat je dit subdomein wilt verwijderen?',
     ]
 ];
