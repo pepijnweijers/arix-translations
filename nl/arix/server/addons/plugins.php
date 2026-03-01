@@ -28,7 +28,7 @@ return[
     'delete' => [
         'delete-plugin' => 'Plugin verwijderen',
         'deleted-succesfully' => 'Plugin succesvol verwijderd',
-        'are-you-sure' => 'Weet u zeker dat u wilt verwijderen',
+        'are-you-sure' => 'Weet je zeker dat je wilt verwijderen',
         'continue' => 'Doorgaan'
     ]
 ];

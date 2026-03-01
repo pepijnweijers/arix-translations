@@ -7,7 +7,7 @@ return [
     'at-least-three-characters' => 'Voer minimaal drie tekens in om te beginnen met zoeken.',
     'select-a-server' => 'Selecteer een server',
     'no-servers' => 'Geen servers',
-    'supportcenter' => 'Ondersteuningscentrum',
+    'supportcenter' => 'Ondersteuning',
 
     'servers' => 'Servers',
     'account' => 'Account',
@@ -26,14 +26,14 @@ return [
     'properties' => 'Eigenschappen',
     'versions' => 'Versies',
     'subdomains' => 'Subdomeinen',
-    'admin-view' => 'Beheerdersweergave',
+    'admin-view' => 'Admin weergave',
 
     'general' => 'Algemeen',
     'management' => 'Beheer',
     'configuration' => 'Configuratie',
 
     'account-overview' => 'Accountoverzicht',
-    'admin-area' => 'Beheerdersgebied',
+    'admin-area' => 'Admin gebied',
     'account-activity' => 'Accountactiviteit',
     'dark-light-mode' => 'Donker/Lichte modus',
     'logout' => 'Uitloggen',

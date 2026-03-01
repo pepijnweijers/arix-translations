@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'account-activity-log' => 'Accountactiviteitenlog',
-    'activity-log' => 'Activiteitenlog',
+    'account-activity-log' => 'Accountactiviteit',
+    'activity-log' => 'Activiteit',
     'clear-filters' => 'Filters wissen',
     'metadata' => 'Metadata',
     'close' => 'Sluiten',
-    'no-logs-server' => 'Geen activiteitenlogboeken beschikbaar voor deze server.',
+    'no-logs-server' => 'Geen activiteit logs beschikbaar voor deze server.',
 ];

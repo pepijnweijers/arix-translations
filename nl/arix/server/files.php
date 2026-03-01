@@ -17,10 +17,10 @@ return [
     'update' => 'Bijwerken',
 
     'file-mode' => 'Bestandsmodus',
-    'you-cant-recover' => 'U kunt de inhoud van niet herstellen',
+    'you-cant-recover' => 'Je kunt de inhoud van niet herstellen',
     'once-deleted' => 'nadat het is verwijderd.',
     'delete-files' => 'Bestanden verwijderen',
-    'are-you-sure' => 'Weet u zeker dat u wilt verwijderen',
+    'are-you-sure' => 'Weet je zeker dat je wilt verwijderen',
     'this-is-permanent-action' => 'Dit is een permanente actie en de bestanden kunnen niet worden hersteld.',
     'name' => 'naam',
     'size' => 'grootte',
@@ -65,9 +65,9 @@ return [
     ],
     
     'edit' => [
-        'youre-editing' => 'U bewerkt een',
+        'youre-editing' => 'Je bewerkt een',
         'will-be-exluded' => 'bestand. Alle bestanden of mappen die hier worden vermeld, worden uitgesloten van back-ups. Jokertekens worden ondersteund met een asterisk',
-        'you-can-negate' => 'U kunt een eerdere regel negeren door een uitroepteken voor te voegen',
+        'you-can-negate' => 'Je kunt een eerdere regel negeren door een uitroepteken voor te voegen',
         'save-content' => 'Inhoud opslaan',
         'create-file' => 'Bestand aanmaken',
     ],
