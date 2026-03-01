@@ -7,7 +7,7 @@ return [
         'title' => 'SFTP-gegevens',
         'server-address' => 'Serveradres',
         'username' => 'Gebruikersnaam',
-        'description' => 'Uw SFTP-wachtwoord is hetzelfde als het wachtwoord dat u gebruikt om toegang te krijgen tot dit paneel.',
+        'description' => 'Je SFTP-wachtwoord is hetzelfde als het wachtwoord dat je gebruikt om toegang te krijgen tot dit paneel.',
         'launch-sftp' => 'SFTP starten',
     ],
     'server-info' => [

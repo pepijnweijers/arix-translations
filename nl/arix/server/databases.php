@@ -13,7 +13,7 @@ return [
     'password' => 'Wachtwoord',
     'connection-string' => 'JDBC-verbindingsreeks',
     'database-connection-details' => 'Databaseverbindingsdetails',
-    'no-databases' => 'Het lijkt erop dat u geen databases heeft.',
+    'no-databases' => 'Het lijkt erop dat je geen databases heeft.',
     'cannot-be-created' => 'Databases kunnen niet worden aangemaakt voor deze server.',
     'confirm-deletion' => 'Database verwijdering bevestigen',
     'delete-description-1' => 'Het verwijderen van een database is een permanente actie; dit kan niet ongedaan worden gemaakt. Dit zal de',
@@ -29,7 +29,7 @@ return [
     'create' => [
         'title' => 'Nieuwe database aanmaken',
         'name' => 'Databasenaam',
-        'name-description' => 'Een beschrijvende naam voor uw database-instantie.',
+        'name-description' => 'Een beschrijvende naam voor je database-instantie.',
         'connection-from' => 'Verbinding van',
         'connection-from-description' => 'Vanaf waar verbindingen mogen worden toegestaan. Laat leeg om verbindingen van overal toe te staan.',
         'cancel' => 'Annuleren',
