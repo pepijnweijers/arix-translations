@@ -33,8 +33,7 @@ return[
         'backup-name' => 'Jméno zálohy',
         'backup-name-description' => 'Pokud zadáno, bude tímto jménem záloha označena.',
         'ignored-files-directories' => 'Ignorované soubory a složky',
-        'ignored-files-directories-description' => ' Zadejte soubory nebo složky, které chcete při vytváření této zálohy ignorovat. Ponechte prázdné, chcete-li použít obsah souboru .pteroignore v root adresáři serveru, pokud je přítomen. Kromě negace pravidla tím, že se před cestu uvede vykřičník, je podporována shoda se zástupnými znaky je souborů a složek.',
-        'locked' => 'Uzamčít',
+        'ignored-files-directories-description' => ' Zadejte soubory nebo složky, které chcete při vytváření této zálohy ignorovat. Ponechte prázdné, chcete-li použít obsah souboru .pteroignore v root adresáři serveru, pokud je přítomen. Kromě negace pravidla tím, že se před cestu uvede vykřičník, je podporována shoda se zástupnými znaky je souborů a složek.',        'locked' => 'Uzamčít',
         'locked-description' => 'Zabrání smazání této zálohy dokud není odemčena.',
         'start' => 'Zahájit zálohování',
     ]
